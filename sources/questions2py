@@ -1,0 +1,121 @@
+QUESTIONS = {
+    0: 'Nome:',
+    1: 'Como foi a adaptação ?',
+    2: 'Característica da criança:',
+    3: 'Como ela vivencia a roda rítmica?',
+    4: 'Como se alimenta na escola?',
+    5: 'Como brinca nos parques? (motricidade, se envolve em conflitos? tem preferências de brincadeiras?)',
+    6: 'Como realiza as atividades? (Se recusa, faz sem resistência, tem preferência por algum tipo?)',
+    7: 'Qual fase do Grafismo se encontra?',
+    8: 'Sabe escrever seu nome?',
+    9: 'Identifica alguma letra?',
+    10: 'Conta e identifica número?',
+    11: 'Participa das aulas de capoeira?',
+    12: 'Participa do momento de Euritimia?',
+    13: 'Como participa do momento da sala de Leitura?',
+    14: 'Participou do projeto Histórias Viajantes?',
+    15: 'Como vivencia o momento do faz de conta na sala de aula? (brinca com os brinquedos, é capaz de dividir?)',
+    16: 'Após a brincadeira, ajuda a organizar os brinquedos?',
+    17: 'Como se comporta nos momentos da Roda de história?',
+}
+
+POSSIBLE_ANSWERS = {
+    0: ['Nome da criança'],
+    1: ['Muito bem', 'Bem', 'Regular', 'Mal', 'Muito mal'],
+    2: ['Extrovertida', 'Introvertida', 'Sociável', 'Tímida', 'Outros'],
+    3: ['Gosta muito', 'Gosta', 'Regular', 'Não gosta', 'Não participa'],
+    4: ['Come bem', 'Come razoavelmente', 'Come pouco', 'Não come'],
+    5: ['Muito bem', 'Bem', 'Regular', 'Mal', 'Muito mal'],
+    6: ['Com facilidade', 'Com alguma dificuldade', 'Com muita dificuldade', 'Não participa'],
+    7: ['Rabisco desordenado', 'Rabisco ordenado', 'Rabisco nomeado', 'Pré-esquemático', 'Esquemático'],
+    8: ['Sim', 'Não'],
+    9: ['Sim', 'Não'],
+    10: ['Sim', 'Não'],
+    11: ['Sim', 'Não'],
+    12: ['Sim', 'Não'],
+    13: [
+        'Participa com interesse dos momentos de leitura, ouvindo com atenção as histórias contadas.',
+        'Demonstra curiosidade pelos livros e gosta de observar as ilustrações.',
+        'Interage com os colegas comentando sobre os personagens e enredos.',
+        'Reconta as histórias com suas próprias palavras, demonstrando compreensão.',
+        'Participa das rodas de conversa após a leitura, expressando suas preferências.',
+        'Escolhe livros de forma autônoma e manuseia com cuidado.',
+        'Representa as histórias por meio de desenhos e dramatizações.',
+        'Demonstra alegria e envolvimento durante os momentos na sala de leitura.',
+    ],
+    14: [
+        'Participou ativamente do projeto, mostrando interesse pelas histórias.',
+        'Participou de forma passiva, ouvindo as histórias contadas.',
+        'Não participou do projeto.',
+    ],
+    15: ['Brinca com os brinquedos', 'É capaz de dividir', 'Brinca sozinho', 'Não participa'],
+    16: ['Ajuda sempre', 'Ajuda às vezes', 'Raramente ajuda', 'Nunca ajuda'],
+    17: ['Muito bem', 'Bem', 'Regular', 'Mal', 'Muito mal'],
+}
+
+import time 
+
+def escolher_opcao(pergunta, opcoes):
+    print(f"\n{pergunta}")
+    for idx, opcao in enumerate(opcoes):
+        print(f"{idx}. {opcao}")
+    while True:
+        try:
+            escolha = int(input("Escolha o número correspondente à resposta: "))
+            if 0 <= escolha < len(opcoes):
+                return opcoes[escolha]
+            else:
+                print("Escolha inválida. Tente novamente.")
+        except ValueError:
+            print("Entrada inválida. Digite um número.")
+
+def gerar_paragrafo(respostas):
+    nome = respostas[0]
+    return f"""
+Relatório Pedagógico
+Nome da criança: {nome}
+
+Durante o período observado, {nome} demonstrou uma adaptação {respostas[1].lower()} ao ambiente escolar, o que contribuiu para um envolvimento positivo com a rotina diária. Sua personalidade {respostas[2].lower()} tem favorecido significativamente a construção de vínculos afetivos e a interação harmoniosa com os colegas e educadores.
+
+Nas atividades de roda rítmica, participa de forma que pode ser descrita como: {respostas[3].lower()}, demonstrando sensibilidade musical e engajamento nos movimentos propostos. Com relação à alimentação, {respostas[4].lower()} na escola, o que evidencia seu processo de autonomia e adaptação ao cardápio oferecido.
+
+Ao explorar os espaços ao ar livre, especialmente os parques, {respostas[5].lower()}, o que revela tanto seu desenvolvimento motor quanto sua habilidade em lidar com o ambiente coletivo e as diferentes formas de brincar.
+
+Durante as atividades pedagógicas em sala, {respostas[6].lower()}, mostrando-se receptiva às propostas e desafios apresentados. No que diz respeito à expressão gráfica, encontra-se na fase de {respostas[7].lower()}, etapa importante para o desenvolvimento da coordenação motora fina.
+
+Em relação ao processo de alfabetização, já é possível observar alguns indicadores importantes: escreve seu nome ({respostas[8].lower()}), identifica letras ({respostas[9].lower()}), além de contar e reconhecer números ({respostas[10].lower()}).
+
+Nas atividades corporais, participa das aulas de capoeira ({respostas[11].lower()}) e também se envolve nos momentos de Euritmia ({respostas[12].lower()}), demonstrando disponibilidade para o movimento e expressão corporal.
+
+Durante os momentos na sala de leitura, {respostas[13]} Isso demonstra seu interesse pela literatura e contribui para o desenvolvimento da linguagem oral e imaginação.
+
+No projeto Histórias Viajantes, {respostas[14]} Esse envolvimento reforça a importância da leitura compartilhada entre escola e família, ampliando o repertório cultural da criança.
+
+Nas brincadeiras de faz de conta, {respostas[15].lower()}, o que evidencia sua criatividade e capacidade de interação simbólica. Após a finalização das brincadeiras, {respostas[16].lower()} na organização dos materiais, demonstrando senso de responsabilidade e cuidado com o coletivo.
+
+Durante a roda de história, seu comportamento é {respostas[17].lower()}, participando de maneira atenta e respeitosa, o que contribui para a construção de um ambiente de escuta e troca.
+
+Em suma, {nome} apresenta um desenvolvimento global muito positivo, demonstrando alegria, autonomia e envolvimento nas experiências proporcionadas pelo ambiente escolar.
+"""
+
+def mostra_texto(texto):
+    for letra in texto:
+        print(letra,flush=True,end='')
+        time.sleep(0.1)
+
+
+def main():
+    respostas = []
+    for idx in range(len(QUESTIONS)):
+        resposta = escolher_opcao(QUESTIONS[idx], POSSIBLE_ANSWERS[idx])
+        respostas.append(resposta)
+
+    relatorio = gerar_paragrafo(respostas)
+    print("\nRELATÓRIO FINAL:\n")
+    mostra_texto(relatorio)
+
+    with open("relatorio_pedagogico.txt", "w", encoding="utf-8") as f:
+        f.write(relatorio)
+
+if __name__ == "__main__":
+    main()
