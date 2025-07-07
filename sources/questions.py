@@ -69,11 +69,15 @@ POSSIBLE_ANSWERS = {
     17: ['Muito bem', 'Bem', 'Regular', 'Mal', 'Muito mal'],
 }
 
+
 import itertools
 import zlib
 import os
 import sys
 from pathlib import Path
+
+# Dicionário de parágrafos do relatório pedagógico agora está em reports.py
+from reports import REPORT_PARAGRAPHS
 
 def gerar_todas_combinacoes(questions, possible_answers):
     """
@@ -109,7 +113,7 @@ def gerar_todas_combinacoes(questions, possible_answers):
                 ignorar = False
             continue
 
-        texto_formulario = f"\n=== Formulário preenchido ===\n"
+        texto_formulario = "\n=== Formulário preenchido ===\n"
         texto_formulario += f"ID da combinação (hex): {identificador:0>{total_perguntas}}\n\n"
         for chave, resposta in zip(chaves_ordenadas, combinacao):
             print(f"{questions[chave]}\n  -> {resposta}\n")
@@ -168,6 +172,30 @@ def mostrar_formulario_compactado(codigo_hex):
         dados = f.read()
         texto = zlib.decompress(dados).decode('utf-8')
         print(texto)
+
+
+def gerar_relatorio_paragrafos(questions, possible_answers, respostas):
+    """
+    Gera um relatório concatenando parágrafos conforme as respostas do questionário.
+    :param questions: Dicionário de perguntas
+    :param possible_answers: Dicionário de respostas possíveis
+    :param respostas: Dicionário {pergunta: resposta}
+    :return: String com o relatório completo
+    """
+    paragrafos = []
+    nome = respostas.get('Nome:', '[Nome da criança]')
+    paragrafos.append(f'Relatório Pedagógico\nNome da criança: {nome}\n')
+    for idx in sorted(questions.keys()):
+        if idx in REPORT_PARAGRAPHS:
+            resposta = respostas.get(questions[idx])
+            paragrafo = REPORT_PARAGRAPHS[idx].get(resposta)
+            if paragrafo:
+                paragrafos.append(paragrafo)
+    return '\n\n'.join(paragrafos)
+
+# Exemplo de uso:
+# respostas = identificar_resposta_por_codigo(QUESTIONS, POSSIBLE_ANSWERS, "000000000000000000")
+# print(gerar_relatorio_paragrafos(QUESTIONS, POSSIBLE_ANSWERS, respostas))
 mostrar_formulario_compactado('000000000000000000')
 #gerar_todas_combinacoes(QUESTIONS,POSSIBLE_ANSWERS)
 # Exemplo de uso (descomente para testar):
