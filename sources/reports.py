@@ -1,843 +1,1523 @@
+# Questões a serem Atualizadas no formulário em QUESTIONS e POSSIBLE_ANSWERS e REPORT_PARAGRAPHS
+# 1. Como foi o processo de adaptação da criança no início do semestre?
+# a) Entrou na sala com tranquilidade e interesse desde o primeiro dia.
+# b) Chorava ou resistia ao se separar dos responsáveis, mas adaptou-se com o tempo.
+# c) Entrava com autonomia, mas demonstrava certa timidez.
+# d) Teve dificuldades significativas na adaptação, resistindo ao ambiente e às novas rotinas.
+# e) Ainda apresenta resistência e necessita de acompanhamento constante.
+
+# 2. Quais as características marcantes da criança?
+# (Escolha todas que se aplicam)
+# ☐ Alegre e afetuosa
+# ☐ Reservada ou tímida
+# ☐ Energia alta e muito ativa
+# ☐ Comunicação verbal clara
+# ☐ Comunicação verbal com dificuldades
+# ☐ Prefere brincar sozinha
+# ☐ Gosta de brincar em grupo
+# ☐ Demonstra resistência em algumas situações
+# ☐ Outros (especifique): ___________________________
+
+# 3. Como a criança vivencia a roda rítmica?
+# a) Participa ativamente, cantando, fazendo os gestos e acompanhando o ritmo.
+# b) Participa com incentivo da professora, demonstrando envolvimento gradual.
+# c) Observa mais do que participa, mas demonstra curiosidade.
+# d) Resiste ou não participa da roda rítmica mesmo com incentivo.
+
+# 4. Como é a alimentação da criança durante os momentos de lanche?
+# a) Alimenta-se com autonomia, aceita a maioria dos alimentos e come concentrada.
+# b) Alimenta-se com autonomia, mas tem preferências alimentares marcadas (ex: não come carnes ou legumes).
+# c) Precisa de incentivo ou ajuda para se alimentar, com alguma seletividade.
+# d) Apresenta resistência intensa e só aceita se houver adaptação (brinquedos, apoio direto).
+
+# 5. Como a criança brinca nos parques e espaços externos?
+# a) Explora os espaços com segurança, interage com colegas e demonstra equilíbrio corporal.
+# b) Gosta de brincar, mas inicialmente buscava ficar mais próxima do adulto.
+# c) Demonstra insegurança ou pouca iniciativa para brincar.
+# d) Explora com entusiasmo, mas às vezes apresenta comportamentos de risco ou esbarra nos colegas.
+# e) Prefere brincadeiras específicas (ex: balanço, escorregador, pneus, casinha, etc.) ______________________
+
+# 6. Como a criança realiza as atividades propostas na escola (desenho, pintura, colagem, modelagem, etc.)?
+# a) Participa com concentração, dedicação e criatividade.
+# b) Precisa de incentivo, mas realiza com empenho.
+# c) Apresenta resistência e só realiza após mediação ou troca.
+# d) Tem dificuldade em manter-se na atividade e se dispersa facilmente.
+# e) Tem preferência por algum tipo de atividade? __________________________
+
+# 7. Em que fase do grafismo a criança se encontra?
+
+# •	🔘 Fase da Célula – O desenho parte do centro e os traços saem como “raios”. Representações humanas com traços saindo de uma forma redonda (ex: cabeça com pernas e braços).
+# •	🔘 Fase da Garatuja – A criança realiza rabiscos ou traços aparentemente desorganizados, com repetição de gestos. Pode dar nomes aos desenhos, mesmo sem representação reconhecível.
+# •	🔘 Fase das Figuras Isoladas – O desenho apresenta elementos identificáveis como casa, árvore ou pessoas, mas sem relação entre eles. Os objetos estão soltos no espaço da folha.
+# •	🔘 Fase da Cena Simples – Os elementos do desenho começam a se relacionar entre si: a figura humana ao lado da casa, o chão, o céu. Ainda são formas simples, mas já há organização espacial.
+# •	🔘 Fase da Cena Completa – O desenho forma uma narrativa visual, com vários elementos interagindo. Aparecem detalhes como roupas, expressões, e cenas como festa ou brincadeira.
+
+# 8. A criança sabe escrever o próprio nome?
+# a) Escreve seu nome com o auxílio da ficha de nome.
+# b) Está consolidando a escrita do nome com o auxílio da ficha.
+# c) Escreve o nome de modo independente.
+
+# 9. Reconhece as letras?
+# a) Reconhece as letras de seu nome.
+# b) Reconhece as vogais.
+# c) Reconhece todo o alfabeto.
+
+# 10. Sabe contar até quantos?
+# a) Conta até 10.
+# b) Conta até 20.
+# c) Conta até 50.
+
+# 11. Identifica os números?
+# a) De 0 a 5.
+# b) De 0 a 10.
+# c) De 0 a 100.
+
+# 12 Como é a participação da criança nas aulas de capoeira (ou movimento orientado)?
+# a) Participa com alegria e realiza diversos movimentos com desenvoltura.
+# b) Inicialmente resistiu, mas passou a participar com incentivo.
+# c) Participa parcialmente, com apoio individual.
+# d) Ainda não participa ou se recusa frequentemente.
+
+# 13. A criança participa do momento de euritimia (movimentos corporais orientados com música)?
+# a) Sim, participa com entusiasmo e coordenação.
+# b) Participa com algum incentivo, demonstrando interesse.
+# c) Observa mais do que participa.
+# d) Resiste ou não participa.
+
+# 14. Como a criança participa do momento da sala de leitura?
+# a) Demonstra concentração, interesse e respeito, participando ativamente.
+# b) Participa, mas se distrai ou precisa de estímulos para manter a atenção.
+# c) Tem dificuldade em manter a concentração e pode causar distrações.
+# d) Resiste ao momento da leitura ou não participa.
+
+# 15. A criança participou do projeto Histórias Viajantes?
+# a) Sim, participou com entusiasmo e envolvimento.
+# b) Participou parcialmente, com incentivo.
+# c) Não participou ou apresentou resistência.
+
+# 16. Como a criança vivencia o momento do faz de conta na sala de aula?
+# a) Brinca criativamente com os brinquedos e incorpora personagens imaginários.
+# b) Brinca, mas com limitações na criatividade ou fantasia.
+# c) Prefere brincadeiras concretas, com pouca fantasia.
+# d) Tem dificuldades para brincar de faz de conta.
+
+# 17. A criança é capaz de dividir os brinquedos durante as brincadeiras?
+# a) Sim, divide espontaneamente e coopera com os colegas.
+# b) Precisa de apoio da professora para negociar os brinquedos.
+# c) Tem dificuldade e pode apresentar comportamentos agressivos em disputas.
+# d) Prefere brincar sozinha e evita dividir.
+
+# 18. Após a brincadeira, a criança ajuda a organizar os brinquedos?
+# a) Sim, participa da organização de forma espontânea.
+# b) Precisa ser incentivada para ajudar.
+# c) Resiste a guardar e pode apresentar choro ou reclamações.
+# d) Não participa da organização.
+
+# 19. Como a criança se comporta nos momentos da roda de história?
+# a) Mantém atenção, participa e respeita o momento.
+# b) Ouve a história, mas se distrai em alguns momentos.
+# c) Precisa de estímulos para manter o foco e organização.
+# d) Tem dificuldade para acompanhar e pode interromper a dinâmica.
+
+# 20. Como a criança interage com os colegas durante o brincar livre?
+# a) Brinca de forma cooperativa e com entusiasmo com vários colegas.
+# b) Alterna entre brincadeiras individuais e em grupo, com momentos de introspecção.
+# c) Prefere brincar sozinha, com pouca interação social.
+# d) Apresenta dificuldades para se relacionar e resolver conflitos.
+
+# 21. Como a criança demonstra coordenação motora ampla e fina durante as atividades?
+# a) Demonstra habilidade e segurança em movimentos corporais e manuais.
+# b) Está em processo de desenvolvimento, com avanços visíveis.
+# c) Apresenta dificuldades específicas, mas participa das propostas.
+# d) Evita ou resiste às atividades que exigem coordenação motora.
+
+# 22. Há alguma observação importante sobre o comportamento emocional da criança?
+# a) Transmite tranquilidade e influencia positivamente o grupo.
+# b) Alterna entre momentos de introspecção e envolvimento social.
+# c) Demonstra muita energia, entusiasmo e afetividade intensa.
+# d) Apresenta comportamentos desafiadores que exigem acolhimento constante.
+
+# 23. Como a criança participou das atividades relacionadas às épocas do semestre ? (Campo aberto em cada tópico)
+# a) Txai
+# b) Renovação
+# c) Caminhada da Paz
+# d) Colheita
+
+
+# Questões e respostas possíveis movidas de questions.py
+QUESTIONS = {
+    0: 'Nome:',
+    1: 'Como foi o processo de adaptação da criança no início do semestre?',
+    2: 'Quais as características marcantes da criança? (Escolha todas que se aplicam)',
+    3: 'Como a criança vivencia a roda rítmica?',
+    4: 'Como é a alimentação da criança durante os momentos de lanche?',
+    5: 'Como a criança brinca nos parques e espaços externos?',
+    6: 'Como a criança realiza as atividades propostas na escola (desenho, pintura, colagem, modelagem, etc.)?',
+    7: 'Em que fase do grafismo a criança se encontra?',
+    8: 'A criança sabe escrever o próprio nome?',
+    9: 'Reconhece as letras?',
+    10: 'Sabe contar até quantos?',
+    11: 'Identifica os números?',
+    12: 'Como é a participação da criança nas aulas de capoeira (ou movimento orientado)?',
+    13: 'A criança participa do momento de euritimia (movimentos corporais orientados com música)?',
+    14: 'Como a criança participa do momento da sala de leitura?',
+    15: 'A criança participou do projeto Histórias Viajantes?',
+    16: 'Como a criança vivencia o momento do faz de conta na sala de aula?',
+    17: 'A criança é capaz de dividir os brinquedos durante as brincadeiras?',
+    18: 'Após a brincadeira, a criança ajuda a organizar os brinquedos?',
+    19: 'Como a criança se comporta nos momentos da roda de história?',
+    20: 'Como a criança interage com os colegas durante o brincar livre?',
+    21: 'Como a criança demonstra coordenação motora ampla e fina durante as atividades?',
+    22: 'Há alguma observação importante sobre o comportamento emocional da criança?',
+    23: 'Como a criança participou das atividades relacionadas às épocas do semestre?',
+}
+
+
+POSSIBLE_ANSWERS = {
+    0: ['Nome da criança'],
+    1: [
+        'Entrou na sala com tranquilidade e interesse desde o primeiro dia.',
+        'Chorava ou resistia ao se separar dos responsáveis, mas adaptou-se com o tempo.',
+        'Entrava com autonomia, mas demonstrava certa timidez.',
+        'Teve dificuldades significativas na adaptação, resistindo ao ambiente e às novas rotinas.',
+        'Ainda apresenta resistência e necessita de acompanhamento constante.',
+    ],
+    2: [
+        'Alegre e afetuosa',
+        'Reservada ou tímida',
+        'Energia alta e muito ativa',
+        'Comunicação verbal clara',
+        'Comunicação verbal com dificuldades',
+        'Prefere brincar sozinha',
+        'Gosta de brincar em grupo',
+        'Demonstra resistência em algumas situações',
+        'Outros (especifique): ___________________________',
+    ],
+    3: [
+        'Participa ativamente, cantando, fazendo os gestos e acompanhando o ritmo.',
+        'Participa com incentivo da professora, demonstrando envolvimento gradual.',
+        'Observa mais do que participa, mas demonstra curiosidade.',
+        'Resiste ou não participa da roda rítmica mesmo com incentivo.',
+    ],
+    4: [
+        'Alimenta-se com autonomia, aceita a maioria dos alimentos e come concentrada.',
+        'Alimenta-se com autonomia, mas tem preferências alimentares marcadas (ex: não come carnes ou legumes).',
+        'Precisa de incentivo ou ajuda para se alimentar, com alguma seletividade.',
+        'Apresenta resistência intensa e só aceita se houver adaptação (brinquedos, apoio direto).',
+    ],
+    5: [
+        'Explora os espaços com segurança, interage com colegas e demonstra equilíbrio corporal.',
+        'Gosta de brincar, mas inicialmente buscava ficar mais próxima do adulto.',
+        'Demonstra insegurança ou pouca iniciativa para brincar.',
+        'Explora com entusiasmo, mas às vezes apresenta comportamentos de risco ou esbarra nos colegas.',
+        'Prefere brincadeiras específicas (ex: balanço, escorregador, pneus, casinha, etc.) ______________________',
+    ],
+    6: [
+        'Participa com concentração, dedicação e criatividade.',
+        'Precisa de incentivo, mas realiza com empenho.',
+        'Apresenta resistência e só realiza após mediação ou troca.',
+        'Tem dificuldade em manter-se na atividade e se dispersa facilmente.',
+        'Tem preferência por algum tipo de atividade? __________________________',
+    ],
+    7: [
+        'Fase da Célula – O desenho parte do centro e os traços saem como “raios”. Representações humanas com traços saindo de uma forma redonda (ex: cabeça com pernas e braços).',
+        'Fase da Garatuja – A criança realiza rabiscos ou traços aparentemente desorganizados, com repetição de gestos. Pode dar nomes aos desenhos, mesmo sem representação reconhecível.',
+        'Fase das Figuras Isoladas – O desenho apresenta elementos identificáveis como casa, árvore ou pessoas, mas sem relação entre eles. Os objetos estão soltos no espaço da folha.',
+        'Fase da Cena Simples – Os elementos do desenho começam a se relacionar entre si: a figura humana ao lado da casa, o chão, o céu. Ainda são formas simples, mas já há organização espacial.',
+        'Fase da Cena Completa – O desenho forma uma narrativa visual, com vários elementos interagindo. Aparecem detalhes como roupas, expressões, e cenas como festa ou brincadeira.',
+    ],
+    8: [
+        'Escreve seu nome com o auxílio da ficha de nome.',
+        'Está consolidando a escrita do nome com o auxílio da ficha.',
+        'Escreve o nome de modo independente.',
+    ],
+    9: [
+        'Reconhece as letras de seu nome.',
+        'Reconhece as vogais.',
+        'Reconhece todo o alfabeto.',
+    ],
+    10: [
+        'Conta até 10.',
+        'Conta até 20.',
+        'Conta até 50.',
+    ],
+    11: [
+        'De 0 a 5.',
+        'De 0 a 10.',
+        'De 0 a 100.',
+    ],
+    12: [
+        'Participa com alegria e realiza diversos movimentos com desenvoltura.',
+        'Inicialmente resistiu, mas passou a participar com incentivo.',
+        'Participa parcialmente, com apoio individual.',
+        'Ainda não participa ou se recusa frequentemente.',
+    ],
+    13: [
+        'Sim, participa com entusiasmo e coordenação.',
+        'Participa com algum incentivo, demonstrando interesse.',
+        'Observa mais do que participa.',
+        'Resiste ou não participa.',
+    ],
+    14: [
+        'Demonstra concentração, interesse e respeito, participando ativamente.',
+        'Participa, mas se distrai ou precisa de estímulos para manter a atenção.',
+        'Tem dificuldade em manter a concentração e pode causar distrações.',
+        'Resiste ao momento da leitura ou não participa.',
+    ],
+    15: [
+        'Sim, participou com entusiasmo e envolvimento.',
+        'Participou parcialmente, com incentivo.',
+        'Não participou ou apresentou resistência.',
+    ],
+    16: [
+        'Brinca criativamente com os brinquedos e incorpora personagens imaginários.',
+        'Brinca, mas com limitações na criatividade ou fantasia.',
+        'Prefere brincadeiras concretas, com pouca fantasia.',
+        'Tem dificuldades para brincar de faz de conta.',
+    ],
+    17: [
+        'Sim, divide espontaneamente e coopera com os colegas.',
+        'Precisa de apoio da professora para negociar os brinquedos.',
+        'Tem dificuldade e pode apresentar comportamentos agressivos em disputas.',
+        'Prefere brincar sozinha e evita dividir.',
+    ],
+    18: [
+        'Sim, participa da organização de forma espontânea.',
+        'Precisa ser incentivada para ajudar.',
+        'Resiste a guardar e pode apresentar choro ou reclamações.',
+        'Não participa da organização.',
+    ],
+    19: [
+        'Mantém atenção, participa e respeita o momento.',
+        'Ouve a história, mas se distrai em alguns momentos.',
+        'Precisa de estímulos para manter o foco e organização.',
+        'Tem dificuldade para acompanhar e pode interromper a dinâmica.',
+    ],
+    20: [
+        'Brinca de forma cooperativa e com entusiasmo com vários colegas.',
+        'Alterna entre brincadeiras individuais e em grupo, com momentos de introspecção.',
+        'Prefere brincar sozinha, com pouca interação social.',
+        'Apresenta dificuldades para se relacionar e resolver conflitos.',
+    ],
+    21: [
+        'Demonstra habilidade e segurança em movimentos corporais e manuais.',
+        'Está em processo de desenvolvimento, com avanços visíveis.',
+        'Apresenta dificuldades específicas, mas participa das propostas.',
+        'Evita ou resiste às atividades que exigem coordenação motora.',
+    ],
+    22: [
+        'Transmite tranquilidade e influencia positivamente o grupo.',
+        'Alterna entre momentos de introspecção e envolvimento social.',
+        'Demonstra muita energia, entusiasmo e afetividade intensa.',
+        'Apresenta comportamentos desafiadores que exigem acolhimento constante.',
+    ],
+    23: [
+        'Txai',
+        'Renovação',
+        'Caminhada da Paz',
+        'Colheita',
+    ],
+}
 # reports.py
 # Dicionário que associa cada resposta possível a um parágrafo de relatório pedagógico
 
 REPORT_PARAGRAPHS = {
-    1: {
-        'Muito bem': [
-            'A adaptação da criança ao ambiente escolar foi excelente. Desde o início do período letivo, demonstrou grande entusiasmo e facilidade para se integrar ao novo ambiente, participando ativamente das atividades propostas e estabelecendo vínculos positivos com colegas e educadores. Sua postura colaborativa e aberta contribuiu para um clima harmonioso na sala de aula, favorecendo o desenvolvimento de suas habilidades sociais e emocionais.',
-            'A criança se adaptou de forma exemplar ao ambiente escolar, mostrando alegria e disposição em todas as atividades, além de criar laços afetivos rapidamente com colegas e professores.',
-            'Desde o início, a criança demonstrou uma integração notável, participando com entusiasmo das rotinas escolares e estabelecendo relações saudáveis com todos ao redor.',
-            'A adaptação foi extremamente positiva, com a criança mostrando-se aberta a novas experiências e interagindo de maneira harmoniosa com o grupo.',
-            'A criança apresentou uma adaptação admirável, envolvendo-se com facilidade nas propostas pedagógicas e contribuindo para o bom clima da turma.',
-            'O processo de adaptação foi tranquilo e produtivo, com a criança demonstrando segurança e interesse em aprender e conviver.',
-            'A criança rapidamente se sentiu à vontade no ambiente escolar, participando de todas as atividades e demonstrando satisfação em estar na escola.',
-            'A integração da criança ao novo contexto escolar foi muito natural, evidenciando maturidade e sociabilidade.',
-            'A criança se destacou pela facilidade com que se adaptou, mostrando-se receptiva e colaborativa em todas as situações.',
-            'A adaptação foi marcada por entusiasmo e envolvimento, com a criança aproveitando ao máximo as oportunidades de interação e aprendizado.'
+    23: {
+        'Txai': [
+            'A criança participou das atividades do Txai com envolvimento e curiosidade, demonstrando interesse pelas tradições apresentadas.',
+            'Mostrou-se aberta a aprender sobre o significado do Txai, interagindo com colegas e professores.',
+            'Participou das propostas relacionadas ao Txai com entusiasmo e respeito.',
+            'A criança contribuiu para o clima de integração durante as atividades do Txai.',
+            'Demonstrou sensibilidade ao vivenciar os valores trabalhados no Txai.',
+            'A participação nas atividades do Txai favoreceu o desenvolvimento cultural e social.',
+            'A criança expressou suas impressões sobre o Txai de forma criativa.',
+            'O envolvimento nas atividades do Txai foi positivo para a turma.',
+            'A criança valorizou os momentos de partilha e reflexão proporcionados pelo Txai.',
+            'A participação no Txai contribuiu para ampliar o repertório cultural da criança.',
         ],
-        'Bem': [
-            'A adaptação da criança ao ambiente escolar foi boa. Mostrou-se receptiva às novidades e, com o passar dos dias, foi se envolvendo cada vez mais nas atividades e interagindo de forma positiva com os colegas. Eventuais momentos de insegurança foram superados com o apoio da equipe escolar, permitindo que a criança se sentisse acolhida e motivada a participar.',
-            'A criança apresentou uma adaptação satisfatória, participando das atividades e interagindo bem com o grupo, mesmo que de forma gradual.',
-            'O processo de adaptação foi positivo, com a criança demonstrando interesse e aceitação pelas rotinas escolares.',
-            'A criança se mostrou aberta ao novo ambiente, integrando-se progressivamente às dinâmicas da turma.',
-            'A adaptação ocorreu de maneira tranquila, com a criança participando das atividades e estabelecendo vínculos com colegas e professores.',
-            'A criança se adaptou bem, mostrando-se confortável e participativa na maioria das situações escolares.',
-            'A integração ao ambiente escolar foi boa, com a criança demonstrando disposição para aprender e conviver.',
-            'A criança aceitou bem as mudanças, participando das propostas pedagógicas e interagindo de forma respeitosa.',
-            'A adaptação foi positiva, com a criança se mostrando cada vez mais à vontade na escola.',
-            'A criança apresentou uma boa adaptação, superando eventuais desafios iniciais com o apoio da equipe.'
+        'Renovação': [
+            'A criança participou das atividades de Renovação com alegria e disposição.',
+            'Demonstrou interesse em compreender o significado da Renovação no contexto escolar.',
+            'Participou das propostas de Renovação com criatividade e envolvimento.',
+            'A criança contribuiu para o clima de renovação e esperança na turma.',
+            'Mostrou-se motivada a vivenciar os valores trabalhados na Renovação.',
+            'A participação nas atividades de Renovação favoreceu o desenvolvimento emocional.',
+            'A criança expressou suas ideias sobre Renovação de forma espontânea.',
+            'O envolvimento nas atividades de Renovação foi marcante para a turma.',
+            'A criança valorizou os momentos de reflexão e celebração durante a Renovação.',
+            'A participação na Renovação contribuiu para fortalecer o sentimento de pertencimento.',
         ],
-        'Regular': [
-            'A adaptação da criança foi regular, alternando momentos de participação ativa com outros de maior reserva. Em algumas situações, demonstrou certa hesitação diante de novas experiências, mas, gradualmente, foi se ajustando à rotina escolar. O acompanhamento próximo dos educadores tem sido fundamental para promover avanços nesse processo.',
-            'A criança apresentou uma adaptação intermediária, participando de algumas atividades, mas ainda demonstrando certa timidez em outras.',
-            'O processo de adaptação foi oscilante, com a criança alternando entre envolvimento e momentos de retraimento.',
-            'A adaptação ocorreu de forma moderada, sendo necessário incentivo extra para que a criança se sentisse mais segura.',
-            'A criança mostrou-se um pouco reservada no início, mas vem progredindo gradualmente na integração com o grupo.',
-            'A adaptação foi razoável, com a criança participando das atividades, porém ainda buscando mais confiança.',
-            'A criança está em processo de adaptação, apresentando avanços, mas ainda necessitando de apoio em algumas situações.',
-            'A integração ao ambiente escolar foi regular, com a criança demonstrando interesse, mas também certa insegurança.',
-            'A criança alterna entre momentos de participação ativa e outros de observação, indicando uma adaptação em andamento.',
-            'A adaptação está ocorrendo de forma gradual, com a criança se mostrando cada vez mais aberta às experiências escolares.'
+        'Caminhada da Paz': [
+            'A criança participou da Caminhada da Paz com entusiasmo e respeito.',
+            'Demonstrou compreensão sobre a importância da paz no convívio escolar.',
+            'Participou das atividades da Caminhada da Paz de forma ativa e colaborativa.',
+            'A criança contribuiu para o clima de harmonia durante a Caminhada da Paz.',
+            'Mostrou-se sensível aos valores trabalhados na Caminhada da Paz.',
+            'A participação nas atividades da Caminhada da Paz favoreceu o desenvolvimento social.',
+            'A criança expressou suas percepções sobre a paz de maneira criativa.',
+            'O envolvimento na Caminhada da Paz foi positivo para a turma.',
+            'A criança valorizou os momentos de união e reflexão proporcionados pela Caminhada da Paz.',
+            'A participação na Caminhada da Paz contribuiu para fortalecer os laços entre os colegas.',
         ],
-        'Mal': [
-            'A adaptação da criança apresentou dificuldades. Mostrou resistência a algumas atividades e certa dificuldade para se integrar ao grupo, necessitando de apoio constante dos educadores. Recomenda-se a continuidade do acompanhamento individualizado para favorecer sua inclusão e bem-estar.',
-            'A criança encontrou obstáculos no processo de adaptação, demonstrando resistência e pouca participação nas atividades.',
-            'A adaptação foi difícil, com a criança apresentando dificuldades para se enturmar e aceitar as rotinas escolares.',
-            'A criança mostrou-se pouco receptiva ao novo ambiente, necessitando de acompanhamento próximo para superar os desafios.',
-            'O processo de adaptação foi marcado por insegurança e pouca interação com o grupo.',
-            'A criança apresentou resistência às mudanças, participando pouco das propostas pedagógicas.',
-            'A adaptação foi complicada, exigindo estratégias diferenciadas para promover o bem-estar da criança.',
-            'A criança demonstrou dificuldades em se adaptar, sendo importante o apoio da equipe escolar e da família.',
-            'A integração ao ambiente escolar foi limitada, com a criança preferindo manter-se isolada em diversas situações.',
-            'A criança apresentou uma adaptação difícil, necessitando de acompanhamento individualizado e constante.'
+        'Colheita': [
+            'A criança participou das atividades da Colheita com alegria e envolvimento.',
+            'Demonstrou interesse em compreender o significado da Colheita no contexto escolar.',
+            'Participou das propostas de Colheita com criatividade e dedicação.',
+            'A criança contribuiu para o clima de gratidão durante as atividades da Colheita.',
+            'Mostrou-se motivada a vivenciar os valores trabalhados na Colheita.',
+            'A participação nas atividades da Colheita favoreceu o desenvolvimento emocional.',
+            'A criança expressou suas ideias sobre Colheita de forma espontânea.',
+            'O envolvimento nas atividades da Colheita foi marcante para a turma.',
+            'A criança valorizou os momentos de partilha e celebração durante a Colheita.',
+            'A participação na Colheita contribuiu para fortalecer o sentimento de gratidão e pertencimento.',
         ],
-        'Muito mal': [
-            'A adaptação da criança foi bastante difícil, exigindo atenção especial da equipe escolar. Demonstrou grande resistência às mudanças e pouca disposição para participar das atividades, sendo fundamental o envolvimento da família e da equipe pedagógica para promover avanços nesse processo.',
-            'A criança enfrentou sérias dificuldades de adaptação, recusando-se a participar das atividades e interagir com o grupo.',
-            'O processo de adaptação foi extremamente desafiador, com a criança apresentando grande resistência ao novo ambiente.',
-            'A criança mostrou-se totalmente avessa às rotinas escolares, necessitando de acompanhamento intensivo.',
-            'A adaptação foi marcada por isolamento e recusa em participar das propostas pedagógicas.',
-            'A criança não conseguiu se integrar ao grupo, demonstrando desconforto e insegurança constantes.',
-            'A adaptação foi muito difícil, exigindo intervenções frequentes da equipe escolar.',
-            'A criança apresentou grande resistência ao ambiente escolar, sendo fundamental o apoio da família.',
-            'O processo de adaptação foi marcado por desafios significativos, com a criança evitando o contato com colegas e professores.',
-            'A criança não se adaptou ao ambiente escolar, necessitando de estratégias específicas para promover sua inclusão.'
-        ]
     },
-    2: {
-        'Extrovertida': [
-            'A criança é extrovertida, interagindo facilmente com todos e participando ativamente das atividades coletivas.',
-            'Demonstra espontaneidade e alegria ao se comunicar, buscando sempre o contato com colegas e adultos.',
-            'Sua personalidade extrovertida contribui para um ambiente animado e acolhedor na sala de aula.',
-            'Mostra-se aberta a novas amizades, envolvendo-se com entusiasmo nas dinâmicas do grupo.',
-            'A criança se destaca pela facilidade em se expressar e pela disposição em colaborar com os demais.',
-            'Participa de todas as atividades com energia, incentivando os colegas a se envolverem também.',
-            'Sua extroversão favorece a construção de vínculos positivos e o clima de integração na turma.',
-            'Demonstra iniciativa para propor brincadeiras e interagir em diferentes contextos.',
-            'A criança é comunicativa, expressando suas ideias e sentimentos com clareza.',
-            'Sua postura extrovertida inspira confiança e aproximação dos colegas.'
+    22: {
+        'Transmite tranquilidade e influencia positivamente o grupo.': [
+            'A criança transmite tranquilidade e influencia positivamente o grupo com sua postura serena.',
+            'Demonstra equilíbrio emocional, contribuindo para um ambiente harmonioso na turma.',
+            'Sua presença é fonte de calma e segurança para os colegas.',
+            'A criança acolhe os colegas com empatia e gentileza.',
+            'O comportamento tranquilo favorece a resolução de conflitos de forma pacífica.',
+            'Demonstra maturidade emocional ao lidar com diferentes situações do cotidiano escolar.',
+            'A influência positiva é percebida nas interações e no clima da sala.',
+            'A criança serve de exemplo para os colegas em momentos de desafio.',
+            'Sua postura serena contribui para o bem-estar coletivo.',
+            'O equilíbrio emocional é um destaque em seu desenvolvimento.',
         ],
-        'Introvertida': [
-            'A criança apresenta uma personalidade introvertida, preferindo atividades mais reservadas e interações em pequenos grupos.',
-            'Observa atentamente o ambiente antes de se envolver, participando de forma significativa quando se sente segura.',
-            'Prefere momentos de introspecção, demonstrando sensibilidade e atenção aos detalhes.',
-            'Sua introversão é respeitada, permitindo que se expresse no seu próprio tempo.',
-            'A criança se sente mais confortável em ambientes tranquilos e com poucos colegas.',
-            'Participa das atividades de forma discreta, mas com qualidade e dedicação.',
-            'Demonstra preferência por brincadeiras individuais ou em duplas.',
-            'Sua postura reservada contribui para um ambiente de respeito e escuta.',
-            'A criança valoriza o silêncio e a observação, enriquecendo o grupo com sua percepção.',
-            'Com apoio, vai se integrando gradualmente às dinâmicas coletivas.'
+        'Alterna entre momentos de introspecção e envolvimento social.': [
+            'A criança alterna entre momentos de introspecção e envolvimento social, demonstrando autoconhecimento.',
+            'Participa das atividades em grupo, mas também valoriza momentos de reflexão individual.',
+            'Demonstra flexibilidade ao transitar entre o convívio coletivo e o tempo sozinho.',
+            'A alternância entre introspecção e socialização contribui para o desenvolvimento emocional.',
+            'A criança respeita o próprio ritmo e o dos colegas nas interações.',
+            'Mostra-se sensível às necessidades do grupo, mesmo quando prefere ficar sozinha.',
+            'O equilíbrio entre envolvimento social e introspecção é acompanhado pela equipe escolar.',
+            'Demonstra maturidade ao lidar com diferentes contextos emocionais.',
+            'A criança busca apoio quando sente necessidade de interação.',
+            'A alternância de comportamentos é respeitada e valorizada no ambiente escolar.',
         ],
-        'Sociável': [
-            'A criança é sociável, interagindo bem com colegas e adultos em diferentes situações.',
-            'Demonstra facilidade para fazer amizades e se adaptar a novos grupos.',
-            'Participa de brincadeiras em grupo, compartilhando materiais e ideias.',
-            'Sua sociabilidade contribui para um ambiente harmonioso e colaborativo.',
-            'Mostra-se disponível para ajudar os outros e acolher novos colegas.',
-            'A criança gosta de conversar e trocar experiências com todos ao redor.',
-            'Sua postura amigável favorece a integração e o respeito mútuo.',
-            'Demonstra empatia e interesse pelo bem-estar dos colegas.',
-            'Participa ativamente das rodas de conversa e atividades coletivas.',
-            'Sua sociabilidade é um exemplo positivo para o grupo.'
+        'Demonstra muita energia, entusiasmo e afetividade intensa.': [
+            'A criança demonstra muita energia, entusiasmo e afetividade intensa nas relações com colegas e adultos.',
+            'Participa das atividades com vigor e alegria, contagiando o grupo.',
+            'Demonstra carinho e proximidade nas interações diárias.',
+            'A energia elevada é canalizada para propostas criativas e dinâmicas.',
+            'O entusiasmo é um traço marcante em sua participação escolar.',
+            'A afetividade intensa favorece a construção de vínculos positivos.',
+            'Demonstra espontaneidade ao expressar sentimentos e emoções.',
+            'A criança incentiva os colegas com sua postura animada.',
+            'O envolvimento afetivo contribui para o clima acolhedor da turma.',
+            'A energia e o entusiasmo são acompanhados para garantir equilíbrio nas atividades.',
         ],
-        'Tímida': [
-            'A criança demonstra certa timidez, necessitando de estímulos para se integrar aos grupos.',
-            'Em situações novas, tende a se mostrar reservada, mas, com apoio, vai se soltando gradualmente.',
-            'Prefere observar antes de participar, buscando segurança no ambiente.',
-            'Sua timidez é respeitada, permitindo que se expresse no seu ritmo.',
-            'A criança precisa de incentivo para interagir, mas responde bem ao acolhimento dos colegas.',
-            'Demonstra sensibilidade e cuidado nas relações interpessoais.',
-            'Com o tempo, vai ganhando confiança e ampliando sua participação.',
-            'A timidez não impede que contribua de forma significativa para o grupo.',
-            'Prefere atividades em pequenos grupos ou em dupla.',
-            'Sua postura reservada é valorizada e respeitada por todos.'
+        'Apresenta comportamentos desafiadores que exigem acolhimento constante.': [
+            'A criança apresenta comportamentos desafiadores que exigem acolhimento constante da equipe escolar.',
+            'Demonstra dificuldade em lidar com limites e regras em algumas situações.',
+            'O acompanhamento próximo é fundamental para promover o bem-estar emocional.',
+            'A criança pode reagir de forma impulsiva diante de frustrações.',
+            'A equipe utiliza estratégias de acolhimento para favorecer a inclusão.',
+            'O comportamento desafiador é trabalhado com paciência e empatia.',
+            'A criança recebe apoio individualizado para superar desafios emocionais.',
+            'A participação nas atividades é incentivada de acordo com suas necessidades.',
+            'O acolhimento constante contribui para avanços no desenvolvimento emocional.',
+            'A equipe escolar mantém diálogo com a família para alinhar estratégias de apoio.',
         ],
-        'Outros': [
-            'A criança possui características singulares que enriquecem o convívio escolar.',
-            'Sua individualidade traz novas perspectivas e experiências para o grupo.',
-            'Demonstra traços únicos de personalidade, contribuindo para a diversidade da turma.',
-            'A criança se destaca por suas particularidades, que são respeitadas e valorizadas.',
-            'Sua presença agrega valor ao ambiente escolar, promovendo respeito às diferenças.',
-            'Apresenta comportamentos e interesses próprios, enriquecendo as interações.',
-            'A individualidade da criança é reconhecida e celebrada pela equipe escolar.',
-            'Contribui com ideias e pontos de vista originais nas atividades.',
-            'Sua forma de ser inspira acolhimento e empatia entre os colegas.',
-            'A criança é incentivada a expressar sua autenticidade em todas as situações.'
-        ]
     },
-    3: {
-        'Gosta muito': [
-            'Durante a roda rítmica, mostra entusiasmo e envolvimento, participando com alegria das músicas, movimentos e dinâmicas propostas.',
-            'Demonstra grande interesse pela roda rítmica, engajando-se com energia nas atividades.',
-            'A criança se destaca pelo entusiasmo nas rodas rítmicas, aproveitando cada momento.',
-            'Participa com alegria e disposição das dinâmicas musicais e corporais.',
-            'Mostra prazer em compartilhar os momentos de roda rítmica com o grupo.',
-            'A criança se envolve profundamente nas atividades rítmicas, contribuindo para o clima positivo.',
-            'Demonstra coordenação motora e ritmo durante as rodas rítmicas.',
-            'Participa ativamente das músicas e movimentos, incentivando os colegas.',
-            'A roda rítmica é um dos momentos preferidos da criança, que se entrega de corpo e alma.',
-            'Sua participação nas rodas rítmicas é marcada por entusiasmo e alegria.'
+    21: {
+        'Demonstra habilidade e segurança em movimentos corporais e manuais.': [
+            'A criança demonstra habilidade e segurança em movimentos corporais e manuais durante as atividades.',
+            'Executa tarefas que exigem coordenação motora ampla e fina com facilidade e precisão.',
+            'Participa de atividades físicas e manuais com confiança e destreza.',
+            'Mostra-se ágil e coordenada ao realizar movimentos corporais diversos.',
+            'A habilidade motora é evidenciada em brincadeiras, jogos e atividades artísticas.',
+            'Demonstra controle e força ao manipular objetos e materiais.',
+            'A segurança nos movimentos contribui para o sucesso nas propostas escolares.',
+            'Participa de desafios motores com entusiasmo e desenvoltura.',
+            'A criança utiliza diferentes estratégias para realizar tarefas motoras com eficiência.',
+            'O desenvolvimento da coordenação motora é um destaque em seu desempenho escolar.',
         ],
-        'Gosta': [
-            'Participa da roda rítmica com interesse, acompanhando as atividades propostas e demonstrando boa disposição.',
-            'A criança mostra-se receptiva às dinâmicas rítmicas, participando com satisfação.',
-            'Demonstra envolvimento nas rodas rítmicas, aproveitando as músicas e movimentos.',
-            'Participa das atividades rítmicas com boa vontade e atenção.',
-            'A criança se integra bem às rodas rítmicas, acompanhando o grupo.',
-            'Mostra-se motivada a participar das dinâmicas musicais e corporais.',
-            'Acompanha as rodas rítmicas com interesse e respeito.',
-            'Demonstra prazer em participar das atividades rítmicas da turma.',
-            'A criança se envolve nas rodas rítmicas, contribuindo para o sucesso das atividades.',
-            'Sua participação nas rodas rítmicas é positiva e constante.'
+        'Está em processo de desenvolvimento, com avanços visíveis.': [
+            'A criança está em processo de desenvolvimento da coordenação motora, apresentando avanços visíveis.',
+            'Demonstra evolução gradual nas atividades que exigem movimentos corporais e manuais.',
+            'Participa das propostas motoras com interesse, mesmo que ainda apresente algumas dificuldades.',
+            'Os avanços na coordenação motora são perceptíveis ao longo do tempo.',
+            'A criança se esforça para realizar tarefas motoras, mostrando progresso constante.',
+            'Recebe orientações e apoio para aprimorar os movimentos durante as atividades.',
+            'A participação nas atividades motoras contribui para o desenvolvimento global.',
+            'Demonstra motivação para superar desafios relacionados à coordenação motora.',
+            'A equipe escolar acompanha e incentiva o progresso nas habilidades motoras.',
+            'O processo de desenvolvimento é respeitado, valorizando cada conquista da criança.',
         ],
-        'Regular': [
-            'Participa da roda rítmica de forma regular, alternando momentos de envolvimento e distração.',
-            'A criança apresenta participação oscilante nas rodas rítmicas.',
-            'Em algumas ocasiões, precisa de incentivo para se engajar plenamente.',
-            'Mostra interesse moderado pelas atividades rítmicas.',
-            'Participa das rodas rítmicas, mas às vezes se dispersa.',
-            'A criança alterna entre envolvimento e distração nas dinâmicas rítmicas.',
-            'Sua participação nas rodas rítmicas é razoável, com momentos de maior e menor atenção.',
-            'Demonstra interesse variável pelas atividades musicais e corporais.',
-            'A criança participa das rodas rítmicas, mas nem sempre com o mesmo entusiasmo.',
-            'Sua presença nas rodas rítmicas é constante, mas o envolvimento pode variar.'
+        'Apresenta dificuldades específicas, mas participa das propostas.': [
+            'A criança apresenta dificuldades específicas na coordenação motora, mas participa das propostas escolares.',
+            'Demonstra esforço para realizar tarefas que exigem movimentos corporais e manuais.',
+            'Apesar das dificuldades, envolve-se nas atividades motoras com apoio e incentivo.',
+            'A participação nas propostas é positiva, mesmo diante dos desafios motores.',
+            'Recebe adaptações e orientações para facilitar a execução das tarefas motoras.',
+            'A criança busca superar as dificuldades com persistência e dedicação.',
+            'O apoio da equipe escolar é fundamental para o desenvolvimento das habilidades motoras.',
+            'Demonstra satisfação ao conquistar pequenas vitórias nas atividades motoras.',
+            'A participação ativa contribui para o aprimoramento da coordenação motora.',
+            'O respeito ao ritmo individual favorece o progresso nas habilidades motoras.',
         ],
-        'Não gosta': [
-            'Demonstra pouco interesse pela roda rítmica, participando apenas quando incentivada pelos educadores.',
-            'A criança prefere outras atividades, mostrando desinteresse pelas rodas rítmicas.',
-            'Participa das rodas rítmicas apenas quando estimulada.',
-            'Mostra-se pouco motivada para as dinâmicas rítmicas.',
-            'A criança raramente se envolve nas rodas rítmicas.',
-            'Demonstra resistência às atividades musicais e corporais.',
-            'Participa das rodas rítmicas de forma passiva.',
-            'A criança precisa de incentivo extra para participar das rodas rítmicas.',
-            'Mostra-se desinteressada pelas dinâmicas rítmicas da turma.',
-            'Sua participação nas rodas rítmicas é limitada e pouco entusiasmada.'
+        'Evita ou resiste às atividades que exigem coordenação motora.': [
+            'A criança evita ou resiste às atividades que exigem coordenação motora ampla e fina.',
+            'Demonstra pouca disposição para participar de propostas que envolvem movimentos corporais e manuais.',
+            'A resistência pode estar relacionada a insegurança ou dificuldades motoras.',
+            'Prefere atividades que não exigem grande esforço motor.',
+            'A participação nas atividades motoras é limitada, sendo necessário acompanhamento e incentivo.',
+            'A criança pode recusar desafios motores, optando por tarefas mais simples.',
+            'O apoio da equipe escolar é importante para estimular a participação nas atividades motoras.',
+            'A resistência é respeitada, buscando-se estratégias para ampliar o envolvimento.',
+            'A criança necessita de tempo e acolhimento para se sentir segura nas propostas motoras.',
+            'O acompanhamento próximo favorece avanços na participação em atividades de coordenação motora.',
         ],
-        'Não participa': [
-            'Não participa das atividades da roda rítmica, preferindo se dedicar a outras propostas ou observar os colegas.',
-            'A criança opta por não participar das rodas rítmicas.',
-            'Prefere observar as atividades rítmicas sem se envolver diretamente.',
-            'A criança não demonstra interesse pelas rodas rítmicas.',
-            'Evita participar das dinâmicas musicais e corporais.',
-            'A criança se mantém afastada das rodas rítmicas.',
-            'Não se envolve nas atividades rítmicas propostas.',
-            'A criança prefere outras atividades em vez das rodas rítmicas.',
-            'Sua ausência nas rodas rítmicas é frequente.',
-            'A criança não participa das rodas rítmicas, mesmo quando incentivada.'
-        ]
     },
-    4: {
-        'Come bem': [
-            'A criança se alimenta bem na escola, demonstrando autonomia e interesse pelas refeições oferecidas.',
-            'Mostra boa aceitação dos alimentos, servindo-se sozinha e respeitando os horários das refeições.',
-            'Demonstra satisfação ao experimentar diferentes pratos e sabores.',
-            'Participa das refeições com entusiasmo, contribuindo para um ambiente agradável.',
-            'A alimentação é realizada de forma tranquila, com a criança mostrando-se independente.',
-            'Aceita bem a variedade alimentar proposta pela escola.',
-            'A criança aprecia as refeições, demonstrando hábitos saudáveis.',
-            'Mostra-se aberta a novos alimentos, ampliando seu repertório alimentar.',
-            'A criança se destaca pela autonomia e interesse durante as refeições.',
-            'Sua alimentação na escola é equilibrada e satisfatória.'
+    20: {
+        'Brinca de forma cooperativa e com entusiasmo com vários colegas.': [
+            'A criança brinca de forma cooperativa e com entusiasmo com vários colegas, demonstrando facilidade de socialização.',
+            'Demonstra alegria e disposição ao interagir com diferentes colegas durante o brincar livre.',
+            'Participa ativamente das brincadeiras em grupo, promovendo um ambiente harmonioso.',
+            'Mostra-se aberta a novas amizades e valoriza o convívio coletivo.',
+            'A cooperação nas brincadeiras favorece o desenvolvimento das habilidades sociais.',
+            'Demonstra empatia e respeito ao compartilhar brinquedos e ideias com os colegas.',
+            'O entusiasmo nas interações contribui para a integração do grupo.',
+            'A criança incentiva a participação dos colegas nas atividades lúdicas.',
+            'Participa de jogos coletivos com entusiasmo e respeito às regras.',
+            'O comportamento cooperativo é um destaque nas relações interpessoais da criança.',
         ],
-        'Come razoavelmente': [
-            'A alimentação na escola é razoável, com momentos de boa aceitação e outros de menor interesse.',
-            'Em geral, aceita bem os alimentos, mas pode apresentar seletividade em algumas situações.',
-            'A criança participa das refeições, mas nem sempre demonstra entusiasmo.',
-            'Mostra aceitação variável dos alimentos oferecidos.',
-            'A alimentação é realizada de forma adequada, com eventuais recusas.',
-            'A criança aceita parte dos alimentos, recusando outros.',
-            'Sua alimentação é satisfatória, mas pode melhorar em variedade.',
-            'Demonstra interesse moderado pelas refeições escolares.',
-            'A aceitação dos alimentos depende do cardápio do dia.',
-            'A criança se alimenta de forma razoável, com momentos de maior e menor interesse.'
+        'Alterna entre brincadeiras individuais e em grupo, com momentos de introspecção.': [
+            'A criança alterna entre brincadeiras individuais e em grupo, demonstrando equilíbrio entre introspecção e socialização.',
+            'Participa das atividades coletivas, mas também valoriza momentos de brincar sozinha.',
+            'Demonstra autonomia ao escolher entre interagir com colegas ou brincar de forma independente.',
+            'O brincar livre é marcado por momentos de integração e outros de introspecção.',
+            'A criança transita com naturalidade entre o grupo e as atividades individuais.',
+            'Mostra-se flexível ao adaptar-se a diferentes dinâmicas de brincadeira.',
+            'A alternância entre brincadeiras em grupo e individuais contribui para o desenvolvimento emocional.',
+            'Demonstra respeito pelo próprio tempo e pelo dos colegas durante as interações.',
+            'A criança equilibra a necessidade de socialização com a de introspecção.',
+            'O comportamento revela maturidade ao lidar com diferentes contextos sociais.',
         ],
-        'Come pouco': [
-            'A criança se alimenta pouco na escola, sendo importante acompanhamento para garantir que suas necessidades nutricionais sejam atendidas.',
-            'Apresenta seletividade e, por vezes, recusa parte das refeições.',
-            'Mostra pouco interesse pelos alimentos oferecidos.',
-            'A alimentação é realizada em pequenas quantidades.',
-            'A criança precisa de incentivo para experimentar novos alimentos.',
-            'Recusa parte das refeições, preferindo alimentos específicos.',
-            'A alimentação é limitada, exigindo atenção da equipe escolar.',
-            'Demonstra apetite reduzido durante as refeições.',
-            'A criança come pouco, sendo importante o acompanhamento nutricional.',
-            'Sua alimentação na escola é restrita, com baixa aceitação dos alimentos.'
+        'Prefere brincar sozinha, com pouca interação social.': [
+            'A criança prefere brincar sozinha, demonstrando menor interesse por interações sociais durante o brincar livre.',
+            'Mostra-se reservada e opta por atividades individuais na maior parte do tempo.',
+            'A participação em brincadeiras coletivas é limitada, sendo mais frequente o envolvimento em jogos solitários.',
+            'Demonstra autonomia ao escolher brincar sozinha, mesmo quando há oportunidades de interação.',
+            'A preferência por atividades individuais é respeitada e acompanhada pela equipe escolar.',
+            'O brincar solitário pode indicar necessidade de tempo para adaptação ao grupo.',
+            'A criança explora brinquedos e materiais de forma independente.',
+            'Demonstra satisfação ao realizar atividades sem a presença constante de colegas.',
+            'A equipe incentiva gradualmente a participação em brincadeiras coletivas.',
+            'O comportamento reservado é acompanhado para promover maior integração social.',
         ],
-        'Não come': [
-            'A criança não se alimenta na escola, exigindo atenção especial da equipe.',
-            'Recusa todas as refeições oferecidas, preferindo não comer durante o período escolar.',
-            'Não demonstra interesse pelos alimentos servidos na escola.',
-            'A alimentação não é realizada, sendo necessário diálogo com a família.',
-            'A criança não aceita nenhum alimento durante as refeições.',
-            'Apresenta recusa total dos alimentos escolares.',
-            'A alimentação não ocorre na escola, exigindo estratégias diferenciadas.',
-            'A criança não participa das refeições, mantendo-se afastada do refeitório.',
-            'Não se alimenta no ambiente escolar, sendo importante investigar as causas.',
-            'A recusa alimentar é constante, necessitando acompanhamento especializado.'
-        ]
+        'Apresenta dificuldades para se relacionar e resolver conflitos.': [
+            'A criança apresenta dificuldades para se relacionar e resolver conflitos durante o brincar livre.',
+            'Demonstra resistência ao interagir com colegas, podendo evitar brincadeiras em grupo.',
+            'A participação nas atividades coletivas é prejudicada por dificuldades de socialização.',
+            'Mostra-se insegura diante de situações de conflito, necessitando de mediação.',
+            'A criança pode reagir de forma impulsiva ou se isolar em situações de disputa.',
+            'O acompanhamento próximo é fundamental para estimular a participação em grupo.',
+            'Demonstra necessidade de apoio para desenvolver habilidades de resolução de conflitos.',
+            'A equipe escolar utiliza estratégias para promover a integração e o diálogo.',
+            'A criança está em processo de aprendizagem das regras de convivência.',
+            'O comportamento evidencia a importância do acolhimento e da orientação nas interações sociais.',
+        ],
     },
-    5: {
-        'Muito bem': [
-            'Nas brincadeiras nos parques, a criança interage muito bem, apresentando boa motricidade.',
-            'Demonstra estar à vontade nos espaços externos, envolvendo-se nas atividades de forma positiva.',
-            'Mostra iniciativa para propor brincadeiras e respeita as regras estabelecidas.',
-            'A criança se destaca pela participação ativa nas brincadeiras ao ar livre.',
-            'Interage com todos os colegas, promovendo um ambiente de cooperação.',
-            'Demonstra habilidades motoras e sociais durante as atividades no parque.',
-            'A criança aproveita ao máximo as oportunidades de brincar nos espaços externos.',
-            'Participa das brincadeiras com entusiasmo e alegria.',
-            'Mostra-se confiante e segura durante as atividades no parque.',
-            'Sua participação nas brincadeiras externas é exemplar e positiva.'
+    19: {
+        'Mantém atenção, participa e respeita o momento.': [
+            'A criança mantém atenção, participa e respeita o momento da roda de história, demonstrando envolvimento nas atividades.',
+            'Demonstra interesse e concentração durante as histórias, interagindo de forma positiva com o grupo.',
+            'Participa das rodas de história com entusiasmo, ouvindo e comentando sobre as narrativas.',
+            'Demonstra respeito pelo momento da roda, mantendo o silêncio e a atenção.',
+            'A participação ativa nas rodas de história contribui para o desenvolvimento da linguagem.',
+            'Demonstra curiosidade e faz perguntas pertinentes sobre as histórias apresentadas.',
+            'Interage com os colegas durante as discussões sobre as narrativas.',
+            'A criança expressa suas opiniões e preferências literárias com clareza.',
+            'Participa de atividades complementares, como dramatizações e desenhos sobre as histórias.',
+            'O envolvimento nas rodas de história favorece o desenvolvimento cognitivo e emocional.',
         ],
-        'Bem': [
-            'Brinca nos parques com desenvoltura, participando das atividades propostas.',
-            'Interage de forma harmoniosa com os colegas durante as brincadeiras.',
-            'Demonstra boa coordenação motora e disposição para explorar diferentes brinquedos.',
-            'A criança participa das atividades externas com interesse.',
-            'Mostra-se motivada a brincar nos espaços ao ar livre.',
-            'A integração nas brincadeiras do parque é boa, com envolvimento constante.',
-            'Demonstra satisfação ao participar das atividades externas.',
-            'A criança se envolve nas brincadeiras, respeitando os colegas.',
-            'Participa das atividades no parque com alegria e respeito.',
-            'Sua participação nas brincadeiras ao ar livre é positiva e frequente.'
+        'Ouve a história, mas se distrai em alguns momentos.': [
+            'A criança ouve a história, mas se distrai em alguns momentos durante a roda.',
+            'Demonstra interesse pelas narrativas, porém necessita de estímulos para manter a atenção.',
+            'Participa das rodas de história, mas pode perder o foco facilmente.',
+            'O incentivo do professor é importante para garantir o envolvimento nas rodas de história.',
+            'A criança alterna entre momentos de atenção e distração durante as histórias.',
+            'Demonstra compreensão das narrativas, mesmo que precise de apoio para manter o foco.',
+            'Participa das discussões, mas pode se dispersar em atividades mais longas.',
+            'O uso de estratégias lúdicas contribui para aumentar o interesse pelas histórias.',
+            'A participação é positiva, mas requer acompanhamento para maior concentração.',
+            'A criança está em processo de desenvolvimento da atenção durante as rodas de história.',
         ],
-        'Regular': [
-            'Participa das brincadeiras nos parques de forma regular, alternando momentos de maior e menor envolvimento.',
-            'Em algumas situações, prefere observar ou brincar sozinha.',
-            'Quando estimulada, integra-se ao grupo nas atividades externas.',
-            'A criança apresenta participação oscilante nas brincadeiras ao ar livre.',
-            'Mostra interesse moderado pelas atividades no parque.',
-            'A participação nas brincadeiras externas é razoável, com momentos de maior e menor envolvimento.',
-            'Demonstra preferência por algumas brincadeiras específicas.',
-            'A criança alterna entre brincar com o grupo e momentos de introspecção.',
-            'Sua participação nas atividades externas é variável.',
-            'A integração nas brincadeiras do parque ocorre de forma gradual.'
+        'Precisa de estímulos para manter o foco e organização.': [
+            'A criança precisa de estímulos para manter o foco e organização durante a roda de história.',
+            'Demonstra dificuldade em manter a atenção por períodos prolongados.',
+            'Participa das rodas de história, mas pode se dispersar facilmente.',
+            'O acompanhamento próximo é fundamental para estimular o envolvimento nas rodas de história.',
+            'A criança pode conversar ou se movimentar durante as histórias, dispersando o grupo.',
+            'Demonstra compreensão parcial das narrativas devido à falta de atenção.',
+            'O uso de recursos visuais e lúdicos pode auxiliar na manutenção do foco.',
+            'A participação nas discussões é pontual, sendo necessário incentivo para maior envolvimento.',
+            'A dificuldade de concentração é trabalhada de forma acolhedora pela equipe escolar.',
+            'O incentivo recebido favorece avanços na participação ao longo do tempo.',
         ],
-        'Mal': [
-            'Apresenta dificuldades nas brincadeiras nos parques, seja por questões de motricidade ou interação social.',
-            'Prefere atividades mais tranquilas, evitando brincadeiras em grupo.',
-            'A criança demonstra resistência às atividades externas.',
-            'Participa pouco das brincadeiras ao ar livre, necessitando incentivo.',
-            'Mostra-se insegura durante as atividades no parque.',
-            'A participação nas brincadeiras externas é limitada.',
-            'Demonstra pouca disposição para interagir com os colegas no parque.',
-            'A criança evita as atividades mais movimentadas.',
-            'Sua participação nas brincadeiras ao ar livre é restrita.',
-            'A integração nas atividades externas é dificultada por questões motoras ou sociais.'
+        'Tem dificuldade para acompanhar e pode interromper a dinâmica.': [
+            'A criança tem dificuldade para acompanhar e pode interromper a dinâmica da roda de história.',
+            'Demonstra resistência ou recusa em participar das rodas de história.',
+            'A participação nas rodas de história é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável durante o momento da roda.',
+            'Ainda não demonstra interesse em participar das rodas de história, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas rodas de história.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+            'A participação limitada nas rodas de história é respeitada, buscando-se ampliar gradualmente o envolvimento.',
         ],
-        'Muito mal': [
-            'Demonstra grande resistência ou desinteresse pelas brincadeiras nos parques.',
-            'Evita o contato com os colegas e os brinquedos durante as atividades externas.',
-            'A criança não participa das brincadeiras ao ar livre.',
-            'Mostra-se isolada durante as atividades no parque.',
-            'Recusa-se a brincar nos espaços externos, mesmo quando incentivada.',
-            'A participação nas brincadeiras externas é inexistente.',
-            'Demonstra desinteresse total pelas atividades ao ar livre.',
-            'A criança se mantém afastada das brincadeiras no parque.',
-            'Não interage com os colegas durante as atividades externas.',
-            'Sua ausência nas brincadeiras ao ar livre é constante.'
-        ]
-    },
-    6: {
-        'Com facilidade': [
-            'Durante a realização das atividades pedagógicas, demonstra facilidade e boa disposição, realizando as propostas sem resistência.',
-            'A criança executa as tarefas com autonomia e interesse, mostrando-se aberta a diferentes estímulos.',
-            'Participa das atividades com entusiasmo, sem apresentar dificuldades significativas.',
-            'Realiza as propostas pedagógicas de forma eficiente e colaborativa.',
-            'Demonstra segurança e desenvoltura ao realizar as atividades escolares.',
-            'A criança se destaca pela facilidade em compreender e executar as tarefas.',
-            'Mostra-se motivada e engajada durante as atividades pedagógicas.',
-            'Cumpre as atividades propostas com dedicação e alegria.',
-            'A criança realiza as tarefas com rapidez e qualidade.',
-            'Sua participação nas atividades pedagógicas é marcada por facilidade e envolvimento.'
-        ],
-        'Com alguma dificuldade': [
-            'Realiza as atividades com alguma dificuldade, necessitando de apoio dos educadores para compreender as propostas.',
-            'A criança apresenta desafios pontuais na execução das tarefas.',
-            'Participa das atividades, mas requer incentivo e orientação.',
-            'Demonstra interesse, porém encontra obstáculos em algumas propostas.',
-            'A criança precisa de acompanhamento para superar certas dificuldades.',
-            'Realiza as tarefas com esforço, mas consegue avançar com apoio.',
-            'Mostra-se disposta a aprender, mesmo diante das dificuldades.',
-            'A criança apresenta progresso gradativo nas atividades pedagógicas.',
-            'Necessita de explicações adicionais para compreender algumas tarefas.',
-            'Com acompanhamento, apresenta avanços nas atividades escolares.'
-        ],
-        'Com muita dificuldade': [
-            'Enfrenta muitas dificuldades para realizar as atividades, demonstrando resistência ou desinteresse.',
-            'A criança apresenta grande desafio na execução das tarefas pedagógicas.',
-            'Participa pouco das atividades, necessitando de acompanhamento individualizado.',
-            'Demonstra desmotivação e resistência diante das propostas escolares.',
-            'A criança encontra obstáculos frequentes para realizar as tarefas.',
-            'Mostra-se insegura e pouco confiante durante as atividades.',
-            'A participação nas atividades pedagógicas é limitada por dificuldades de compreensão.',
-            'Necessita de apoio constante para realizar as tarefas escolares.',
-            'A criança apresenta baixo rendimento nas atividades propostas.',
-            'O acompanhamento individualizado é fundamental para promover seu desenvolvimento.'
-        ],
-        'Não participa': [
-            'Não participa das atividades pedagógicas, recusando-se a realizar as propostas.',
-            'A criança opta por não se envolver nas tarefas escolares.',
-            'Recusa-se a participar das atividades, mesmo quando incentivada.',
-            'Mostra desinteresse total pelas propostas pedagógicas.',
-            'A criança se mantém afastada das atividades escolares.',
-            'Não realiza as tarefas propostas, preferindo outras atividades.',
-            'A participação nas atividades pedagógicas é inexistente.',
-            'A criança não se envolve nas propostas da equipe escolar.',
-            'Evita qualquer tipo de atividade pedagógica durante o período escolar.',
-            'Sua ausência nas atividades pedagógicas é constante.'
-        ]
-    },
-    7: {
-        'Rabisco desordenado': [
-            'Quanto ao grafismo, encontra-se na fase de rabisco desordenado, o que é esperado para a sua faixa etária.',
-            'A criança realiza rabiscos sem controle definido, explorando o espaço do papel livremente.',
-            'Os desenhos apresentam traços soltos e desorganizados, típicos do início do desenvolvimento gráfico.',
-            'Demonstra interesse em desenhar, mesmo que de forma desordenada.',
-            'O grafismo é marcado por linhas aleatórias e sem intenção clara.',
-            'A criança experimenta diferentes movimentos com o lápis, sem preocupação com formas.',
-            'Os rabiscos são espontâneos e refletem a fase inicial da expressão gráfica.',
-            'A produção gráfica é caracterizada por traços dispersos e sem direção definida.',
-            'A criança explora o papel com liberdade, sem buscar representar objetos específicos.',
-            'O rabisco desordenado é uma etapa importante para o desenvolvimento da coordenação motora fina.'
-        ],
-        'Rabisco ordenado': [
-            'Apresenta grafismo na fase de rabisco ordenado, demonstrando evolução no controle dos traços.',
-            'Os desenhos mostram linhas mais controladas e intencionais.',
-            'A criança começa a organizar os traços no espaço do papel.',
-            'O grafismo apresenta repetição de movimentos e padrões.',
-            'Demonstra maior domínio do lápis ao desenhar.',
-            'Os rabiscos são mais regulares e seguem uma direção.',
-            'A criança busca preencher o papel de forma mais estruturada.',
-            'O rabisco ordenado indica avanço na coordenação motora.',
-            'Os desenhos apresentam simetria e repetição de formas.',
-            'A criança demonstra intenção ao realizar os traços.'
-        ],
-        'Rabisco nomeado': [
-            'Está na fase de rabisco nomeado, atribuindo significados aos seus desenhos.',
-            'A criança começa a dar nomes aos rabiscos, relacionando-os a objetos ou pessoas.',
-            'Os desenhos passam a ter sentido para a criança, mesmo que não sejam reconhecíveis.',
-            'Demonstra criatividade ao explicar o que representa em seus rabiscos.',
-            'O grafismo é acompanhado de narrativas sobre o que foi desenhado.',
-            'A criança associa histórias aos seus desenhos, enriquecendo a produção gráfica.',
-            'Os rabiscos ganham significado simbólico no universo infantil.',
-            'Atribui nomes e funções aos traços realizados no papel.',
-            'A criança compartilha com os colegas o que desenhou, estimulando a comunicação.',
-            'O rabisco nomeado marca o início da representação simbólica no desenho.'
-        ],
-        'Pré-esquemático': [
-            'Encontra-se na fase pré-esquemática, representando objetos e pessoas de forma mais estruturada.',
-            'A criança começa a desenhar formas que lembram figuras conhecidas.',
-            'Os desenhos apresentam elementos reconhecíveis, como círculos e linhas para pessoas.',
-            'Demonstra intenção de representar o mundo ao seu redor.',
-            'O grafismo evolui para formas mais organizadas e com significado.',
-            'A criança experimenta diferentes maneiras de desenhar objetos.',
-            'Os desenhos mostram tentativas de representar cenas do cotidiano.',
-            'A produção gráfica é marcada por avanços na percepção visual.',
-            'A criança busca detalhes ao desenhar pessoas e objetos.',
-            'O pré-esquemático é uma etapa de transição para o desenho mais elaborado.'
-        ],
-        'Esquemático': [
-            'Apresenta grafismo esquemático, com desenhos bem definidos e riqueza de detalhes.',
-            'A criança representa pessoas e objetos com formas claras e proporcionais.',
-            'Os desenhos mostram organização espacial e uso de diferentes elementos.',
-            'Demonstra domínio da coordenação motora fina ao desenhar.',
-            'A produção gráfica é detalhada e estruturada.',
-            'A criança utiliza cores e formas para enriquecer os desenhos.',
-            'Os esquemas gráficos são repetidos com variações criativas.',
-            'O desenho esquemático reflete avanços na percepção e expressão visual.',
-            'A criança representa cenas completas, com vários elementos.',
-            'O grafismo esquemático indica maturidade no desenvolvimento do desenho.'
-        ]
-    },
-    8: {
-        'Sim': [
-            'Já demonstra habilidades iniciais de alfabetização, como escrever o próprio nome, evidenciando consciência fonológica e motora.',
-            'A criança consegue escrever seu nome, mostrando avanços importantes no processo de alfabetização.',
-            'Demonstra capacidade de identificar e escrever o próprio nome, o que indica bom desenvolvimento.',
-            'A escrita do nome próprio revela que a criança está desenvolvendo habilidades essenciais para a alfabetização.',
-            'Mostra-se apta a escrever o próprio nome, sinalizando progresso na consciência fonológica.',
-            'A criança já reconhece e escreve seu nome, o que é um marco importante para a idade.',
-            'Demonstra domínio das letras do próprio nome, evidenciando interesse pela escrita.',
-            'A escrita do nome próprio ocorre de forma espontânea, indicando maturidade no desenvolvimento.',
-            'A criança apresenta boa coordenação motora ao escrever o próprio nome.',
-            'Já consegue escrever o nome, mostrando interesse e envolvimento nas atividades de alfabetização.'
-        ],
-        'Não': [
-            'Ainda não escreve o próprio nome, o que é esperado para a faixa etária.',
-            'A criança está em processo de reconhecimento das letras do próprio nome.',
-            'Não demonstra ainda habilidade para escrever o nome, mas participa das atividades propostas.',
-            'O estímulo contínuo e atividades lúdicas contribuirão para o desenvolvimento dessa habilidade.',
-            'Ainda não apresenta domínio das letras do nome, sendo importante o acompanhamento.',
-            'A criança necessita de mais tempo e incentivo para escrever o próprio nome.',
-            'Não escreve o nome, mas demonstra interesse em aprender.',
-            'O processo de alfabetização está em andamento, sendo natural não escrever o nome nesta fase.',
-            'Ainda não reconhece todas as letras do nome, mas participa das atividades de escrita.',
-            'A criança está sendo estimulada a escrever o nome, respeitando seu tempo de aprendizagem.'
-        ]
-    },
-    9: {
-        'Sim': [
-            'Identifica algumas letras, demonstrando interesse pelo universo da leitura e escrita.',
-            'A criança reconhece letras do alfabeto, o que é importante para o processo de alfabetização.',
-            'Demonstra curiosidade e capacidade de identificar letras em diferentes contextos.',
-            'O reconhecimento de letras indica avanço no desenvolvimento da linguagem escrita.',
-            'A criança aponta e nomeia letras, mostrando envolvimento nas atividades de leitura.',
-            'Identifica letras em palavras do cotidiano, evidenciando progresso.',
-            'Demonstra interesse em aprender novas letras e sons.',
-            'A identificação de letras ocorre de forma espontânea em atividades lúdicas.',
-            'A criança reconhece letras do próprio nome e de colegas.',
-            'Mostra-se motivada a aprender o alfabeto, identificando letras com facilidade.'
-        ],
-        'Não': [
-            'Ainda não identifica letras, o que é natural para a idade.',
-            'A criança está em processo de reconhecimento das letras do alfabeto.',
-            'Não demonstra ainda habilidade para identificar letras, mas participa das atividades.',
-            'O contato frequente com livros e jogos favorecerá o desenvolvimento dessa habilidade.',
-            'Ainda não reconhece letras, sendo importante o estímulo contínuo.',
-            'A criança necessita de mais tempo para identificar letras.',
-            'Não identifica letras, mas demonstra interesse em atividades de leitura.',
-            'O processo de reconhecimento de letras está em andamento.',
-            'Ainda não aponta ou nomeia letras, mas participa das propostas pedagógicas.',
-            'A criança está sendo incentivada a identificar letras, respeitando seu ritmo.'
-        ]
-    },
-    10: {
-        'Sim': [
-            'Conta e identifica números, demonstrando bom desenvolvimento das noções matemáticas.',
-            'A criança reconhece e nomeia números, evidenciando raciocínio lógico.',
-            'Demonstra capacidade de contar objetos e identificar numerais.',
-            'O reconhecimento de números indica avanço no desenvolvimento cognitivo.',
-            'A criança participa de atividades de contagem com interesse.',
-            'Identifica números em diferentes contextos, mostrando envolvimento.',
-            'Demonstra interesse em aprender novos números e quantidades.',
-            'A identificação de números ocorre de forma espontânea em jogos e brincadeiras.',
-            'A criança reconhece números do cotidiano, como idade e quantidade de objetos.',
-            'Mostra-se motivada a aprender matemática, contando e identificando números.'
-        ],
-        'Não': [
-            'Ainda não conta ou identifica números, o que é esperado para a faixa etária.',
-            'A criança está em processo de reconhecimento dos números.',
-            'Não demonstra ainda habilidade para contar ou identificar números.',
-            'O estímulo por meio de jogos e atividades lúdicas contribuirá para o desenvolvimento dessa habilidade.',
-            'Ainda não apresenta domínio dos numerais, sendo importante o acompanhamento.',
-            'A criança necessita de mais tempo e incentivo para contar e identificar números.',
-            'Não conta ou identifica números, mas demonstra interesse em aprender.',
-            'O processo de aprendizagem dos números está em andamento.',
-            'Ainda não reconhece números, mas participa das atividades de matemática.',
-            'A criança está sendo estimulada a contar e identificar números, respeitando seu tempo.'
-        ]
-    },
-    11: {
-        'Sim': [
-            'Participa das aulas de capoeira, demonstrando interesse e envolvimento nas atividades corporais e musicais propostas.',
-            'A criança se envolve nas aulas de capoeira, participando com entusiasmo das atividades.',
-            'Demonstra interesse pelas aulas de capoeira, integrando-se ao grupo com facilidade.',
-            'A participação nas aulas de capoeira é marcada por alegria e disposição.',
-            'A criança aproveita as oportunidades de aprender novos movimentos na capoeira.',
-            'Mostra-se motivada a participar das atividades de capoeira, desenvolvendo habilidades corporais.',
-            'A criança interage com os colegas durante as aulas de capoeira, promovendo integração.',
-            'Demonstra evolução nas atividades de capoeira, aprendendo novos movimentos.',
-            'A participação nas aulas de capoeira contribui para o desenvolvimento motor e musical.',
-            'A criança demonstra envolvimento e respeito durante as aulas de capoeira.'
-        ],
-        'Não': [
-            'Não participa das aulas de capoeira, preferindo outras atividades. Recomenda-se buscar estratégias para estimular sua participação.',
-            'A criança não se envolve nas aulas de capoeira, mas demonstra interesse por outras atividades.',
-            'Não participa das atividades de capoeira, porém observa os colegas com curiosidade.',
-            'A participação nas aulas de capoeira ainda não foi consolidada, sendo importante o incentivo contínuo.',
-            'A criança está em processo de adaptação às atividades de capoeira.',
-            'Ainda não realiza as atividades de capoeira, mas mostra curiosidade pelas músicas e movimentos.',
-            'O desenvolvimento da participação nas aulas de capoeira está em andamento, com avanços graduais.',
-            'A criança precisa de apoio para participar das aulas de capoeira, o que é natural para a idade.',
-            'Não participa das aulas de capoeira, mas participa de outras atividades corporais.',
-            'O estímulo à participação nas aulas de capoeira deve ser mantido para favorecer o desenvolvimento.'
-        ]
-    },
-    12: {
-        'Sim': [
-            'Participa do momento de Euritimia, acompanhando os movimentos e músicas com atenção e interesse.',
-            'A criança se envolve nas atividades de Euritimia, participando com entusiasmo.',
-            'Demonstra interesse pelo momento de Euritimia, integrando-se ao grupo com facilidade.',
-            'A participação nas atividades de Euritimia é marcada por alegria e disposição.',
-            'A criança aproveita as oportunidades de aprender novos movimentos na Euritimia.',
-            'Mostra-se motivada a participar das atividades de Euritimia, desenvolvendo habilidades corporais.',
-            'A criança interage com os colegas durante o momento de Euritimia, promovendo integração.',
-            'Demonstra evolução nas atividades de Euritimia, aprendendo novos movimentos.',
-            'A participação no momento de Euritimia contribui para o desenvolvimento motor e musical.',
-            'A criança demonstra envolvimento e respeito durante o momento de Euritimia.'
-        ],
-        'Não': [
-            'Não participa do momento de Euritimia, preferindo outras atividades. O estímulo contínuo pode favorecer sua integração.',
-            'A criança não se envolve nas atividades de Euritimia, mas demonstra interesse por outras atividades.',
-            'Não participa do momento de Euritimia, porém observa os colegas com curiosidade.',
-            'A participação nas atividades de Euritimia ainda não foi consolidada, sendo importante o incentivo contínuo.',
-            'A criança está em processo de adaptação às atividades de Euritimia.',
-            'Ainda não realiza as atividades de Euritimia, mas mostra curiosidade pelas músicas e movimentos.',
-            'O desenvolvimento da participação no momento de Euritimia está em andamento, com avanços graduais.',
-            'A criança precisa de apoio para participar das atividades de Euritimia, o que é natural para a idade.',
-            'Não participa do momento de Euritimia, mas participa de outras atividades corporais.',
-            'O estímulo à participação nas atividades de Euritimia deve ser mantido para favorecer o desenvolvimento.'
-        ]
-    },
-    13: {
-        'Participa com interesse dos momentos de leitura, ouvindo com atenção as histórias contadas.': [
-            'Durante os momentos na sala de leitura, mostra-se bastante interessada, ouvindo as histórias com atenção e curiosidade. Demonstra envolvimento e respeito pelo momento de escuta, aproveitando ao máximo as oportunidades de contato com a literatura.',
-            'A criança participa com interesse dos momentos de leitura, ouvindo atentamente as histórias.',
-            'Demonstra envolvimento durante as atividades de leitura, aproveitando as oportunidades de escuta.',
-            'Mostra-se curiosa e atenta durante as histórias contadas na sala de leitura.',
-            'A participação nos momentos de leitura é marcada por atenção e respeito.',
-            'A criança aproveita ao máximo as oportunidades de contato com a literatura.',
-            'Demonstra alegria e envolvimento durante os momentos na sala de leitura.',
-            'A criança valoriza o momento de escuta, participando ativamente das atividades de leitura.',
-            'Mostra interesse em ouvir novas histórias, ampliando seu repertório literário.',
-            'A participação nos momentos de leitura contribui para o desenvolvimento da linguagem.'
-        ],
-        'Demonstra curiosidade pelos livros e gosta de observar as ilustrações.': [
-            'Demonstra curiosidade pelos livros, aprecia observar as ilustrações e explora diferentes títulos de forma autônoma, ampliando seu repertório cultural.',
-            'A criança gosta de observar as ilustrações dos livros, mostrando interesse pela leitura.',
-            'Demonstra curiosidade ao explorar diferentes títulos e autores.',
-            'Aprecia manusear os livros, observando detalhes das imagens.',
-            'A criança explora os livros de forma autônoma, ampliando seu repertório cultural.',
-            'Mostra interesse em conhecer novas histórias por meio das ilustrações.',
-            'Demonstra envolvimento ao observar as imagens dos livros.',
-            'A criança valoriza o contato com os livros, apreciando as ilustrações.',
-            'Mostra curiosidade em descobrir novos livros e autores.',
-            'A apreciação das ilustrações contribui para o desenvolvimento da imaginação.'
-        ],
-        'Interage com os colegas comentando sobre os personagens e enredos.': [
-            'Interage com os colegas durante as rodas de conversa, comentando sobre personagens e enredos, o que contribui para o desenvolvimento da oralidade e do pensamento crítico.',
-            'A criança compartilha suas impressões sobre as histórias com os colegas.',
-            'Demonstra interesse em conversar sobre personagens e enredos após a leitura.',
-            'Participa das rodas de conversa, enriquecendo o debate coletivo.',
-            'A interação com os colegas contribui para o desenvolvimento da oralidade.',
-            'Mostra-se motivada a discutir as histórias lidas com o grupo.',
-            'A criança valoriza o momento de troca de ideias sobre as leituras.',
-            'Demonstra envolvimento ao comentar sobre personagens e enredos.',
-            'A participação nas rodas de conversa amplia o repertório literário.',
-            'A criança contribui para o desenvolvimento do pensamento crítico ao debater as histórias.'
-        ],
-        'Reconta as histórias com suas próprias palavras, demonstrando compreensão.': [
-            'Reconta as histórias com suas próprias palavras, evidenciando compreensão dos textos e criatividade na elaboração de novas narrativas.',
-            'A criança demonstra habilidade ao recontar histórias, mostrando compreensão e criatividade.',
-            'Reconta as histórias lidas, utilizando sua própria linguagem.',
-            'Demonstra compreensão dos textos ao recontar as histórias.',
-            'A criança cria novas narrativas a partir das histórias lidas.',
-            'Mostra-se motivada a compartilhar suas versões das histórias.',
-            'A criatividade é evidenciada ao recontar as histórias com suas próprias palavras.',
-            'Demonstra envolvimento ao criar novas narrativas a partir das leituras.',
-            'A criança valoriza o momento de recontar histórias, ampliando o repertório literário.',
-            'A participação nas atividades de recontar histórias contribui para o desenvolvimento da linguagem.'
-        ],
-        'Participa das rodas de conversa após a leitura, expressando suas preferências.': [
-            'Participa das rodas de conversa após a leitura, expressando suas preferências e opiniões, o que enriquece o debate coletivo.',
-            'A criança compartilha suas preferências literárias com o grupo.',
-            'Demonstra interesse em expressar opiniões sobre as histórias lidas.',
-            'Participa ativamente das rodas de conversa, enriquecendo o debate coletivo.',
-            'A expressão de preferências contribui para o desenvolvimento da autonomia.',
-            'Mostra-se motivada a debater sobre as leituras realizadas.',
-            'A criança valoriza o momento de troca de opiniões sobre as histórias.',
-            'Demonstra envolvimento ao expressar suas preferências literárias.',
-            'A participação nas rodas de conversa amplia o repertório literário.',
-            'A criança contribui para o desenvolvimento do pensamento crítico ao debater as histórias.'
-        ],
-        'Escolhe livros de forma autônoma e manuseia com cuidado.': [
-            'Escolhe livros de forma autônoma, manuseando-os com cuidado e demonstrando responsabilidade pelo material escolar.',
-            'A criança seleciona livros de acordo com seus interesses, mostrando autonomia.',
-            'Demonstra responsabilidade ao manusear os livros da sala de leitura.',
-            'A escolha autônoma de livros contribui para o desenvolvimento da autonomia.',
-            'Mostra-se motivada a explorar diferentes títulos de forma independente.',
-            'A criança valoriza o contato com os livros, cuidando do material escolar.',
-            'Demonstra envolvimento ao escolher livros de forma autônoma.',
-            'A seleção de livros é realizada com cuidado e responsabilidade.',
-            'A criança amplia seu repertório literário ao escolher livros de forma independente.',
-            'A participação nas atividades de escolha de livros contribui para o desenvolvimento da autonomia.'
-        ],
-        'Representa as histórias por meio de desenhos e dramatizações.': [
-            'Representa as histórias lidas por meio de desenhos e dramatizações, integrando diferentes linguagens e ampliando sua expressão artística.',
-            'A criança utiliza o desenho para representar as histórias lidas.',
-            'Demonstra criatividade ao dramatizar as histórias na sala de leitura.',
-            'A representação das histórias por meio de desenhos contribui para o desenvolvimento artístico.',
-            'Mostra-se motivada a criar dramatizações a partir das leituras.',
-            'A criança valoriza o momento de expressão artística após a leitura.',
-            'Demonstra envolvimento ao representar as histórias por meio de diferentes linguagens.',
-            'A participação nas atividades de dramatização amplia o repertório literário.',
-            'A criança contribui para o desenvolvimento da expressão artística ao representar as histórias.',
-            'A criatividade é evidenciada ao criar desenhos e dramatizações a partir das leituras.'
-        ],
-        'Demonstra alegria e envolvimento durante os momentos na sala de leitura.': [
-            'Demonstra alegria e envolvimento durante os momentos na sala de leitura, tornando esse espaço ainda mais significativo para o grupo.',
-            'A criança participa com entusiasmo das atividades na sala de leitura.',
-            'Demonstra satisfação ao ouvir histórias e participar das atividades literárias.',
-            'A alegria é evidenciada durante os momentos de leitura em grupo.',
-            'Mostra-se motivada a participar das atividades na sala de leitura.',
-            'A criança valoriza o momento de leitura, demonstrando envolvimento.',
-            'Demonstra interesse em compartilhar momentos de leitura com os colegas.',
-            'A participação nas atividades de leitura contribui para o desenvolvimento da linguagem.',
-            'A criança amplia seu repertório literário ao participar das atividades na sala de leitura.',
-            'A alegria e o envolvimento são marcas dos momentos na sala de leitura.'
-        ]
-    },
-    14: {
-        'Participou ativamente do projeto, mostrando interesse pelas histórias.': [
-            'Participou ativamente do projeto Histórias Viajantes, revelando envolvimento, curiosidade e interesse pelo universo literário. Compartilhou suas experiências com os colegas e contribuiu para o sucesso da proposta.',
-            'A criança se envolveu com entusiasmo no projeto Histórias Viajantes.',
-            'Demonstra interesse pelas histórias do projeto, participando ativamente das atividades.',
-            'A participação no projeto Histórias Viajantes é marcada por curiosidade e envolvimento.',
-            'A criança compartilha suas experiências literárias com os colegas.',
-            'Mostra-se motivada a participar das atividades do projeto.',
-            'A criança valoriza o contato com novas histórias por meio do projeto.',
-            'Demonstra envolvimento ao ouvir e compartilhar histórias do projeto.',
-            'A participação no projeto contribui para o desenvolvimento do gosto pela leitura.',
-            'A criança amplia seu repertório literário ao participar do projeto Histórias Viajantes.'
-        ],
-        'Participou de forma passiva, ouvindo as histórias contadas.': [
-            'Participou do projeto Histórias Viajantes de forma passiva, ouvindo as histórias contadas e demonstrando respeito pelo momento de leitura.',
-            'A criança acompanhou as atividades do projeto de forma mais reservada.',
-            'Demonstra interesse em ouvir as histórias, mesmo que de forma passiva.',
-            'A participação no projeto Histórias Viajantes é marcada por escuta atenta.',
-            'A criança valoriza o momento de ouvir histórias do projeto.',
-            'Mostra-se motivada a participar das atividades de leitura, mesmo que de forma passiva.',
-            'A criança amplia seu repertório literário ao ouvir histórias do projeto.',
-            'Demonstra envolvimento ao ouvir as histórias contadas no projeto.',
-            'A participação no projeto contribui para o desenvolvimento do gosto pela leitura.',
-            'A criança valoriza o contato com novas histórias por meio do projeto, mesmo que de forma passiva.'
-        ],
-        'Não participou do projeto.': [
-            'Não participou do projeto Histórias Viajantes, preferindo outras atividades. Recomenda-se buscar estratégias para estimular seu interesse pela leitura.',
-            'A criança não se envolveu nas atividades do projeto, mas demonstra interesse por outras propostas.',
-            'Não participou das atividades do projeto, porém observa os colegas com curiosidade.',
-            'A participação no projeto Histórias Viajantes ainda não foi consolidada, sendo importante o incentivo contínuo.',
-            'A criança está em processo de adaptação às atividades do projeto.',
-            'Ainda não realiza as atividades do projeto, mas mostra curiosidade pelas histórias.',
-            'O desenvolvimento da participação no projeto está em andamento, com avanços graduais.',
-            'A criança precisa de apoio para participar das atividades do projeto, o que é natural para a idade.',
-            'Não participou do projeto, mas participa de outras atividades literárias.',
-            'O estímulo à participação no projeto deve ser mantido para favorecer o desenvolvimento do gosto pela leitura.'
-        ]
-    },
-    15: {
-        'Brinca com os brinquedos': [
-            'No momento de faz de conta, brinca com os brinquedos disponíveis, demonstrando criatividade e capacidade de se envolver em diferentes papéis e situações imaginárias.',
-            'A criança utiliza os brinquedos para criar diferentes cenários durante o faz de conta.',
-            'Demonstra criatividade ao brincar com os brinquedos disponíveis.',
-            'A participação nas brincadeiras de faz de conta é marcada por envolvimento e imaginação.',
-            'A criança valoriza o momento de brincar com os brinquedos, ampliando seu repertório lúdico.',
-            'Mostra-se motivada a criar novas histórias durante o faz de conta.',
-            'A criança amplia sua criatividade ao brincar com os brinquedos.',
-            'Demonstra envolvimento ao criar diferentes papéis nas brincadeiras.',
-            'A participação nas atividades de faz de conta contribui para o desenvolvimento da imaginação.',
-            'A criança valoriza o momento de brincar com os brinquedos, demonstrando criatividade.'
-        ],
-        'É capaz de dividir': [
-            'É capaz de dividir os brinquedos com os colegas, respeitando o espaço coletivo e promovendo a colaboração durante as brincadeiras.',
-            'A criança compartilha os brinquedos com os colegas durante o faz de conta.',
-            'Demonstra habilidade em dividir os brinquedos nas brincadeiras.',
-            'A participação nas atividades de faz de conta é marcada por colaboração.',
-            'A criança valoriza o momento de compartilhar os brinquedos com o grupo.',
-            'Mostra-se motivada a dividir os brinquedos durante as brincadeiras.',
-            'A criança amplia sua capacidade de colaboração ao dividir os brinquedos.',
-            'Demonstra envolvimento ao compartilhar os brinquedos com os colegas.',
-            'A participação nas atividades de faz de conta contribui para o desenvolvimento da colaboração.',
-            'A criança valoriza o momento de dividir os brinquedos, promovendo a colaboração.'
-        ],
-        'Brinca sozinho': [
-            'Prefere brincar sozinho durante o faz de conta, o que pode indicar necessidade de momentos de introspecção ou preferência por atividades individuais.',
-            'A criança opta por brincar sozinha durante as atividades de faz de conta.',
-            'Demonstra preferência por atividades individuais nas brincadeiras.',
-            'A participação nas atividades de faz de conta é marcada por momentos de introspecção.',
-            'A criança valoriza o momento de brincar sozinha, respeitando seu próprio ritmo.',
-            'Mostra-se motivada a criar histórias de forma independente.',
-            'A criança amplia sua criatividade ao brincar sozinha.',
-            'Demonstra envolvimento ao criar diferentes cenários de forma individual.',
-            'A participação nas atividades de faz de conta contribui para o desenvolvimento da autonomia.',
-            'A criança valoriza o momento de brincar sozinha, demonstrando autonomia.'
-        ],
-        'Não participa': [
-            'Não participa do momento de faz de conta, preferindo outras atividades. O estímulo à imaginação pode favorecer sua integração.',
-            'A criança não se envolve nas atividades de faz de conta, mas demonstra interesse por outras propostas.',
-            'Não participa das brincadeiras de faz de conta, porém observa os colegas com curiosidade.',
-            'A participação nas atividades de faz de conta ainda não foi consolidada, sendo importante o incentivo contínuo.',
-            'A criança está em processo de adaptação às atividades de faz de conta.',
-            'Ainda não realiza as atividades de faz de conta, mas mostra curiosidade pelas brincadeiras.',
-            'O desenvolvimento da participação nas atividades de faz de conta está em andamento, com avanços graduais.',
-            'A criança precisa de apoio para participar das atividades de faz de conta, o que é natural para a idade.',
-            'Não participa das atividades de faz de conta, mas participa de outras brincadeiras.',
-            'O estímulo à participação nas atividades de faz de conta deve ser mantido para favorecer o desenvolvimento da imaginação.'
-        ]
-    },
-    16: {
-        'Ajuda sempre': [
-            'Ao final das brincadeiras, ajuda sempre na organização dos brinquedos, demonstrando senso de responsabilidade e colaboração.',
-            'A criança auxilia na organização dos brinquedos após as brincadeiras.',
-            'Demonstra responsabilidade ao ajudar na arrumação dos brinquedos.',
-            'A participação na organização dos brinquedos é marcada por colaboração.',
-            'A criança valoriza o momento de ajudar na organização dos brinquedos.',
-            'Mostra-se motivada a colaborar na arrumação dos brinquedos.',
-            'A criança amplia seu senso de responsabilidade ao ajudar na organização.',
-            'Demonstra envolvimento ao colaborar na arrumação dos brinquedos.',
-            'A participação nas atividades de organização contribui para o desenvolvimento da responsabilidade.',
-            'A criança valoriza o momento de ajudar na organização, promovendo a colaboração.'
-        ],
-        'Ajuda às vezes': [
-            'Ajuda às vezes na organização dos brinquedos, principalmente quando incentivada pelos educadores.',
-            'A criança auxilia na organização dos brinquedos em algumas ocasiões.',
-            'Demonstra responsabilidade ao ajudar na arrumação dos brinquedos quando incentivada.',
-            'A participação na organização dos brinquedos é marcada por colaboração ocasional.',
-            'A criança valoriza o momento de ajudar na organização dos brinquedos quando estimulada.',
-            'Mostra-se motivada a colaborar na arrumação dos brinquedos em algumas situações.',
-            'A criança amplia seu senso de responsabilidade ao ajudar na organização quando incentivada.',
-            'Demonstra envolvimento ao colaborar na arrumação dos brinquedos em algumas ocasiões.',
-            'A participação nas atividades de organização contribui para o desenvolvimento da responsabilidade, mesmo que de forma ocasional.',
-            'A criança valoriza o momento de ajudar na organização quando incentivada pelos educadores.'
-        ],
-        'Raramente ajuda': [
-            'Raramente ajuda na organização dos brinquedos, necessitando de estímulos para desenvolver o senso de responsabilidade.',
-            'A criança auxilia na organização dos brinquedos em poucas ocasiões.',
-            'Demonstra pouca responsabilidade ao ajudar na arrumação dos brinquedos.',
-            'A participação na organização dos brinquedos é marcada por colaboração esporádica.',
-            'A criança valoriza o momento de ajudar na organização dos brinquedos em raras situações.',
-            'Mostra-se pouco motivada a colaborar na arrumação dos brinquedos.',
-            'A criança amplia seu senso de responsabilidade ao ajudar na organização em poucas ocasiões.',
-            'Demonstra envolvimento ao colaborar na arrumação dos brinquedos em raras situações.',
-            'A participação nas atividades de organização contribui para o desenvolvimento da responsabilidade, mesmo que de forma esporádica.',
-            'A criança valoriza o momento de ajudar na organização, mesmo que raramente.'
-        ],
-        'Nunca ajuda': [
-            'Não costuma ajudar na organização dos brinquedos, sendo importante trabalhar esse aspecto no cotidiano escolar.',
-            'A criança não auxilia na organização dos brinquedos após as brincadeiras.',
-            'Demonstra falta de responsabilidade ao não ajudar na arrumação dos brinquedos.',
-            'A participação na organização dos brinquedos é inexistente.',
-            'A criança não valoriza o momento de ajudar na organização dos brinquedos.',
-            'Mostra-se desmotivada a colaborar na arrumação dos brinquedos.',
-            'A criança não amplia seu senso de responsabilidade ao não ajudar na organização.',
-            'Demonstra falta de envolvimento ao não colaborar na arrumação dos brinquedos.',
-            'A participação nas atividades de organização não contribui para o desenvolvimento da responsabilidade.',
-            'A criança não valoriza o momento de ajudar na organização, sendo importante trabalhar esse aspecto.'
-        ]
     },
     17: {
-        'Muito bem': [
-            'Nos momentos da roda de história, seu comportamento é muito positivo, participando com atenção e respeito, aproveitando plenamente esse momento de escuta e imaginação.',
-            'A criança participa com atenção e respeito durante a roda de história.',
-            'Demonstra comportamento exemplar nos momentos de escuta e imaginação.',
-            'A participação na roda de história é marcada por envolvimento e respeito.',
-            'A criança valoriza o momento de ouvir histórias, aproveitando ao máximo a experiência.',
-            'Mostra-se motivada a participar das atividades de roda de história.',
-            'A criança amplia seu repertório literário ao participar da roda de história.',
-            'Demonstra envolvimento ao ouvir histórias durante a roda.',
-            'A participação nas atividades de roda de história contribui para o desenvolvimento da linguagem.',
-            'A criança valoriza o momento de escuta e imaginação durante a roda de história.'
+        'Sim, divide espontaneamente e coopera com os colegas.': [
+            'A criança divide espontaneamente os brinquedos e coopera com os colegas durante as brincadeiras.',
+            'Demonstra generosidade e espírito de colaboração ao compartilhar os brinquedos.',
+            'Participa das brincadeiras em grupo, respeitando as regras e os colegas.',
+            'Mostra-se disposta a negociar e ceder brinquedos quando necessário.',
+            'A cooperação nas brincadeiras favorece o desenvolvimento das habilidades sociais.',
+            'Demonstra empatia ao perceber a necessidade dos colegas durante as atividades.',
+            'O compartilhamento dos brinquedos ocorre de forma natural e frequente.',
+            'A criança contribui para um ambiente harmonioso durante as brincadeiras.',
+            'Participa de jogos coletivos com entusiasmo e respeito.',
+            'O comportamento colaborativo é um destaque nas interações sociais da criança.',
         ],
-        'Bem': [
-            'Durante a roda de história, comporta-se bem, ouvindo as histórias e respeitando os colegas.',
-            'A criança participa das atividades de roda de história com respeito.',
-            'Demonstra comportamento adequado durante os momentos de escuta.',
-            'A participação na roda de história é marcada por respeito e atenção.',
-            'A criança valoriza o momento de ouvir histórias, participando ativamente.',
-            'Mostra-se motivada a participar das atividades de roda de história.',
-            'A criança amplia seu repertório literário ao participar da roda de história.',
-            'Demonstra envolvimento ao ouvir histórias durante a roda.',
-            'A participação nas atividades de roda de história contribui para o desenvolvimento da linguagem.',
-            'A criança valoriza o momento de escuta durante a roda de história.'
+        'Precisa de apoio da professora para negociar os brinquedos.': [
+            'A criança precisa de apoio da professora para negociar os brinquedos durante as brincadeiras.',
+            'Demonstra dificuldade em compartilhar, mas aceita a mediação do adulto.',
+            'Participa das brincadeiras em grupo, mas pode hesitar ao dividir os brinquedos.',
+            'O incentivo da professora é importante para estimular o compartilhamento.',
+            'A mediação do adulto contribui para o desenvolvimento das habilidades sociais.',
+            'Demonstra avanços ao receber orientações sobre como dividir os brinquedos.',
+            'A criança está em processo de aprendizagem do compartilhamento nas brincadeiras.',
+            'O apoio da professora favorece a resolução de conflitos durante as atividades.',
+            'Participa das brincadeiras, mas pode precisar de lembretes para dividir.',
+            'A necessidade de apoio evidencia a importância do acompanhamento nas interações sociais.',
         ],
-        'Regular': [
-            'Apresenta comportamento regular nos momentos da roda de história, alternando atenção e dispersão.',
-            'A criança participa das atividades de roda de história de forma oscilante.',
-            'Demonstra comportamento variável durante os momentos de escuta.',
-            'A participação na roda de história é marcada por momentos de atenção e dispersão.',
-            'A criança valoriza o momento de ouvir histórias, mas nem sempre participa ativamente.',
-            'Mostra-se motivada a participar das atividades de roda de história em algumas situações.',
-            'A criança amplia seu repertório literário ao participar da roda de história de forma variável.',
-            'Demonstra envolvimento ao ouvir histórias durante a roda, mas de forma oscilante.',
-            'A participação nas atividades de roda de história contribui para o desenvolvimento da linguagem, mesmo que de forma irregular.',
-            'A criança valoriza o momento de escuta durante a roda de história, mesmo que de forma variável.'
+        'Tem dificuldade e pode apresentar comportamentos agressivos em disputas.': [
+            'A criança tem dificuldade em dividir os brinquedos e pode apresentar comportamentos agressivos em disputas.',
+            'Demonstra resistência ao compartilhar, podendo reagir de forma impulsiva.',
+            'Participa das brincadeiras, mas pode envolver-se em conflitos por causa dos brinquedos.',
+            'O acompanhamento próximo é fundamental para prevenir e mediar disputas.',
+            'A criança está em processo de aprendizagem do controle emocional durante as brincadeiras.',
+            'Demonstra compreensão parcial das regras de convivência e compartilhamento.',
+            'O incentivo ao diálogo é importante para resolver conflitos nas brincadeiras.',
+            'A mediação do adulto é necessária para garantir a segurança e o respeito entre os colegas.',
+            'Participa das atividades, mas pode se isolar após conflitos.',
+            'A dificuldade em dividir é trabalhada de forma acolhedora pela equipe escolar.',
         ],
-        'Mal': [
-            'Demonstra dificuldades de comportamento durante a roda de história, necessitando de acompanhamento para melhorar sua participação.',
-            'A criança apresenta dificuldades de comportamento nos momentos de roda de história.',
-            'Demonstra falta de atenção durante os momentos de escuta.',
-            'A participação na roda de história é marcada por dispersão e desatenção.',
-            'A criança não valoriza o momento de ouvir histórias, participando pouco.',
-            'Mostra-se desmotivada a participar das atividades de roda de história.',
-            'A criança não amplia seu repertório literário ao participar da roda de história.',
-            'Demonstra falta de envolvimento ao ouvir histórias durante a roda.',
-            'A participação nas atividades de roda de história não contribui para o desenvolvimento da linguagem.',
-            'A criança não valoriza o momento de escuta durante a roda de história.'
+        'Prefere brincar sozinha e evita dividir.': [
+            'A criança prefere brincar sozinha e evita dividir os brinquedos com os colegas.',
+            'Demonstra preferência por atividades individuais, mantendo-se afastada dos grupos.',
+            'Participa das brincadeiras, mas opta por não compartilhar os brinquedos.',
+            'O incentivo ao convívio social pode favorecer maior envolvimento nas brincadeiras em grupo.',
+            'A criança está em processo de adaptação às dinâmicas coletivas.',
+            'Prefere atividades que não exigem compartilhamento ou negociação.',
+            'O acompanhamento próximo é importante para estimular a participação em grupo.',
+            'A preferência por brincar sozinha é respeitada, buscando-se ampliar gradualmente o convívio social.',
+            'Participa das atividades, mas pode se afastar em situações de conflito.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas brincadeiras coletivas.',
         ],
-        'Muito mal': [
-            'Apresenta comportamento inadequado durante a roda de história, exigindo intervenções frequentes dos educadores.',
-            'A criança apresenta comportamento inadequado nos momentos de roda de história.',
-            'Demonstra falta de respeito durante os momentos de escuta.',
-            'A participação na roda de história é marcada por desrespeito e desatenção.',
-            'A criança não valoriza o momento de ouvir histórias, participando de forma inadequada.',
-            'Mostra-se desmotivada a participar das atividades de roda de história, apresentando comportamento inadequado.',
-            'A criança não amplia seu repertório literário ao participar da roda de história de forma inadequada.',
-            'Demonstra falta de envolvimento ao ouvir histórias durante a roda, apresentando comportamento inadequado.',
-            'A participação nas atividades de roda de história não contribui para o desenvolvimento da linguagem devido ao comportamento inadequado.',
-            'A criança não valoriza o momento de escuta durante a roda de história, apresentando comportamento inadequado.'
-        ]
+    },
+    16: {
+        'Brinca criativamente com os brinquedos e incorpora personagens imaginários.': [
+            'A criança brinca criativamente com os brinquedos, incorporando personagens imaginários em suas brincadeiras.',
+            'Demonstra imaginação e criatividade ao criar histórias e situações durante o faz de conta.',
+            'Participa ativamente das brincadeiras simbólicas, envolvendo colegas e objetos diversos.',
+            'Mostra-se envolvida e motivada ao representar diferentes papéis nas brincadeiras.',
+            'A criatividade é evidenciada na variedade de personagens e cenários criados durante o faz de conta.',
+            'Demonstra facilidade em inventar enredos e solucionar conflitos nas brincadeiras.',
+            'O faz de conta é um momento de grande expressão e desenvolvimento emocional para a criança.',
+            'Interage com os colegas de forma colaborativa e criativa durante as brincadeiras simbólicas.',
+            'A participação nas brincadeiras de faz de conta contribui para o desenvolvimento da linguagem.',
+            'O envolvimento nas brincadeiras imaginativas favorece o crescimento social e cognitivo.',
+        ],
+        'Brinca, mas com limitações na criatividade ou fantasia.': [
+            'A criança brinca, mas apresenta algumas limitações na criatividade ou fantasia durante o faz de conta.',
+            'Participa das brincadeiras simbólicas, mas tende a repetir enredos ou personagens.',
+            'Demonstra interesse pelas brincadeiras de faz de conta, mas com menor variedade de situações imaginárias.',
+            'A participação ocorre de forma mais restrita, com menor envolvimento em papéis imaginários.',
+            'O incentivo dos colegas e do professor pode favorecer maior criatividade nas brincadeiras.',
+            'Demonstra compreensão das propostas, mas precisa de estímulo para ampliar a fantasia.',
+            'A criança está em processo de desenvolvimento da imaginação nas brincadeiras simbólicas.',
+            'Participa das brincadeiras, mas pode preferir atividades mais concretas.',
+            'O uso de recursos lúdicos pode estimular maior envolvimento nas brincadeiras de faz de conta.',
+            'A participação com limitações evidencia a importância do acolhimento e da motivação.',
+        ],
+        'Prefere brincadeiras concretas, com pouca fantasia.': [
+            'A criança prefere brincadeiras concretas, demonstrando pouca fantasia durante o faz de conta.',
+            'Participa de atividades lúdicas, mas opta por jogos e brincadeiras com regras definidas.',
+            'Demonstra interesse por atividades que envolvem objetos reais e situações do cotidiano.',
+            'A participação nas brincadeiras simbólicas é limitada, sendo mais frequente o envolvimento em jogos concretos.',
+            'O incentivo para explorar a fantasia pode favorecer maior envolvimento nas brincadeiras imaginativas.',
+            'A criança está em processo de desenvolvimento da imaginação, preferindo atividades mais objetivas.',
+            'Participa das brincadeiras, mas com menor envolvimento em situações imaginárias.',
+            'O uso de materiais variados pode estimular maior interesse pelo faz de conta.',
+            'A preferência por brincadeiras concretas é respeitada, buscando-se ampliar gradualmente a fantasia.',
+            'A participação nas brincadeiras concretas contribui para o desenvolvimento de outras habilidades.',
+        ],
+        'Tem dificuldades para brincar de faz de conta.': [
+            'A criança apresenta dificuldades para brincar de faz de conta, demonstrando pouca disposição para as brincadeiras simbólicas.',
+            'Demonstra resistência ou recusa em participar das atividades de faz de conta.',
+            'A participação nas brincadeiras imaginativas é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável durante as brincadeiras simbólicas.',
+            'Ainda não demonstra interesse em participar das brincadeiras de faz de conta, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas brincadeiras simbólicas.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades de faz de conta.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+            'A participação limitada nas brincadeiras de faz de conta é respeitada, buscando-se ampliar gradualmente o envolvimento.',
+        ],
+    },
+    15: {
+        'Sim, participou com entusiasmo e envolvimento.': [
+            'A criança participou do projeto Histórias Viajantes com entusiasmo e envolvimento, demonstrando interesse pelas atividades.',
+            'Mostrou-se motivada e curiosa durante as propostas do projeto, interagindo com colegas e professores.',
+            'Participou ativamente das atividades, contribuindo com ideias e relatos sobre as histórias.',
+            'Demonstra alegria ao compartilhar as experiências vividas durante o projeto.',
+            'O envolvimento no projeto favoreceu o desenvolvimento da linguagem e da criatividade.',
+            'A criança expressou suas opiniões e sentimentos sobre as histórias de forma clara.',
+            'Participou das atividades complementares, como desenhos e dramatizações das histórias.',
+            'O entusiasmo demonstrado contribuiu para o sucesso do projeto na turma.',
+            'A participação ativa evidencia o interesse da criança pelo universo literário.',
+            'O projeto Histórias Viajantes proporcionou momentos de integração e aprendizado significativos.',
+        ],
+        'Participou parcialmente, com incentivo.': [
+            'A criança participou parcialmente do projeto Histórias Viajantes, necessitando de incentivo para maior envolvimento.',
+            'Demonstra interesse pelas histórias, mas alterna entre momentos de participação e distração.',
+            'O incentivo do professor e dos colegas foi importante para estimular a participação.',
+            'Participa das atividades do projeto, mas pode se dispersar em algumas propostas.',
+            'A participação parcial indica a necessidade de estratégias diferenciadas para maior inclusão.',
+            'Demonstra compreensão das histórias, mesmo que precise de apoio para manter o foco.',
+            'O uso de recursos lúdicos contribuiu para aumentar o interesse pelo projeto.',
+            'A criança está em processo de adaptação às propostas do projeto.',
+            'O incentivo recebido favoreceu avanços na participação ao longo do projeto.',
+            'A participação parcial evidencia a importância do acolhimento e da motivação.',
+        ],
+        'Não participou ou apresentou resistência.': [
+            'A criança não participou do projeto Histórias Viajantes ou apresentou resistência às atividades.',
+            'Demonstra pouca disposição para envolver-se nas propostas do projeto.',
+            'Apresenta recusa frequente em participar das atividades do projeto.',
+            'A participação nas atividades do projeto é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável durante as atividades do projeto.',
+            'Ainda não demonstra interesse em participar do projeto, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação no projeto.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
+    },
+    14: {
+        'Demonstra concentração, interesse e respeito, participando ativamente.': [
+            'A criança demonstra concentração, interesse e respeito durante o momento da sala de leitura, participando ativamente das atividades.',
+            'Mostra-se envolvida e atenta às histórias, interagindo de forma positiva com o grupo.',
+            'Participa das rodas de leitura com entusiasmo, ouvindo e comentando sobre as histórias.',
+            'Demonstra respeito pelo momento da leitura, mantendo o silêncio e a atenção.',
+            'A participação ativa nas atividades de leitura contribui para o desenvolvimento da linguagem.',
+            'Demonstra curiosidade e faz perguntas pertinentes sobre as histórias apresentadas.',
+            'Interage com os colegas durante as discussões sobre os livros lidos.',
+            'A criança expressa suas opiniões e preferências literárias com clareza.',
+            'Participa de atividades complementares, como dramatizações e desenhos sobre as histórias.',
+            'O envolvimento nas atividades de leitura favorece o desenvolvimento cognitivo e emocional.',
+        ],
+        'Participa, mas se distrai ou precisa de estímulos para manter a atenção.': [
+            'A criança participa do momento da sala de leitura, mas se distrai em alguns momentos.',
+            'Demonstra interesse pelas histórias, porém necessita de estímulos para manter a atenção.',
+            'Participa das atividades de leitura, mas pode perder o foco facilmente.',
+            'O incentivo do professor é importante para garantir o envolvimento nas rodas de leitura.',
+            'A criança alterna entre momentos de atenção e distração durante as histórias.',
+            'Demonstra compreensão das histórias, mesmo que precise de apoio para manter o foco.',
+            'Participa das discussões, mas pode se dispersar em atividades mais longas.',
+            'O uso de estratégias lúdicas contribui para aumentar o interesse pela leitura.',
+            'A participação é positiva, mas requer acompanhamento para maior concentração.',
+            'A criança está em processo de desenvolvimento da atenção durante as atividades de leitura.',
+        ],
+        'Tem dificuldade em manter a concentração e pode causar distrações.': [
+            'A criança apresenta dificuldade em manter a concentração durante o momento da sala de leitura.',
+            'Pode causar distrações ao grupo, necessitando de intervenções do professor.',
+            'Demonstra interesse inicial, mas perde o foco rapidamente durante as histórias.',
+            'A participação nas atividades de leitura é limitada pela dificuldade de concentração.',
+            'O acompanhamento próximo é fundamental para estimular o envolvimento nas rodas de leitura.',
+            'A criança pode conversar ou se movimentar durante as histórias, dispersando o grupo.',
+            'Demonstra compreensão parcial das histórias devido à falta de atenção.',
+            'O uso de recursos visuais e lúdicos pode auxiliar na manutenção do foco.',
+            'A participação nas discussões é pontual, sendo necessário incentivo para maior envolvimento.',
+            'A dificuldade de concentração é trabalhada de forma acolhedora pela equipe escolar.',
+        ],
+        'Resiste ao momento da leitura ou não participa.': [
+            'A criança resiste ao momento da leitura ou prefere não participar das atividades.',
+            'Demonstra pouca disposição para envolver-se nas rodas de leitura.',
+            'Apresenta recusa frequente em participar das atividades de leitura.',
+            'A participação nas atividades de leitura é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável durante o momento da leitura.',
+            'Ainda não demonstra interesse em participar das rodas de leitura, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas atividades de leitura.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
+    },
+    13: {
+        'Sim, participa com entusiasmo e coordenação.': [
+            'A criança participa das aulas de euritimia com entusiasmo, demonstrando boa coordenação motora.',
+            'Demonstra alegria e envolvimento nas atividades de movimentos corporais com música.',
+            'Mostra-se motivada e interessada durante as propostas de euritimia.',
+            'Executa os movimentos com precisão e criatividade, acompanhando o ritmo musical.',
+            'A participação ativa nas aulas de euritimia contribui para o desenvolvimento corporal e emocional.',
+            'Demonstra facilidade em acompanhar as orientações do professor durante as atividades.',
+            'Interage positivamente com os colegas nas dinâmicas de movimento.',
+            'A criança realiza os movimentos com espontaneidade e expressão corporal.',
+            'Participa das aulas de forma colaborativa, respeitando o espaço dos colegas.',
+            'O envolvimento nas aulas de euritimia favorece o desenvolvimento global da criança.',
+        ],
+        'Participa com algum incentivo, demonstrando interesse.': [
+            'A criança participa das aulas de euritimia com algum incentivo, demonstrando interesse nas atividades.',
+            'Apresenta certa hesitação inicial, mas envolve-se nas propostas com estímulo.',
+            'Com apoio do professor, a criança se sente mais segura para participar das atividades de movimento.',
+            'A participação ocorre de forma gradual, com avanços perceptíveis a cada aula.',
+            'Demonstra interesse em aprender novos movimentos, mesmo que precise de incentivo.',
+            'O estímulo recebido contribui para o aumento do envolvimento nas aulas de euritimia.',
+            'Participa das atividades, ainda que de forma seletiva e com apoio.',
+            'A criança está em processo de adaptação às propostas de movimento com música.',
+            'O incentivo dos colegas e do professor favorece a participação nas aulas.',
+            'A participação com incentivo evidencia a importância do acolhimento e da motivação.',
+        ],
+        'Observa mais do que participa.': [
+            'A criança observa as aulas de euritimia mais do que participa ativamente.',
+            'Demonstra interesse em assistir às atividades, mas ainda não se envolve plenamente.',
+            'Prefere observar os colegas durante as dinâmicas de movimento com música.',
+            'A participação ocorre de forma pontual, sendo mais frequente a observação.',
+            'A criança está em processo de adaptação, sentindo-se mais confortável ao observar.',
+            'O interesse pelas atividades é demonstrado pelo olhar atento, mesmo sem participação ativa.',
+            'A observação das aulas pode anteceder uma participação mais efetiva futuramente.',
+            'Demonstra respeito pelo momento, mesmo que prefira não participar dos movimentos.',
+            'O acompanhamento próximo pode estimular maior envolvimento nas próximas aulas.',
+            'A observação é parte do processo de aprendizagem e adaptação às propostas de euritimia.',
+        ],
+        'Resiste ou não participa.': [
+            'A criança resiste ou não participa das aulas de euritimia, demonstrando pouca disposição para as atividades.',
+            'Apresenta recusa frequente em envolver-se nas propostas de movimento com música.',
+            'Demonstra resistência às atividades, preferindo não participar.',
+            'A participação nas aulas de euritimia é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável diante das atividades de movimento.',
+            'Ainda não demonstra interesse em participar das aulas, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas aulas de euritimia.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
+    },
+    12: {
+        'Participa com alegria e realiza diversos movimentos com desenvoltura.': [
+            'A criança participa das aulas de capoeira (ou movimento orientado) com alegria, demonstrando desenvoltura nos movimentos propostos.',
+            'Demonstra entusiasmo e disposição ao realizar diferentes movimentos durante as aulas.',
+            'Mostra-se motivada e envolvida nas atividades de movimento, participando com energia.',
+            'Executa os movimentos com facilidade e coordenação, evidenciando bom desenvolvimento motor.',
+            'A participação ativa nas aulas contribui para o aprimoramento da coordenação motora e do equilíbrio.',
+            'Demonstra interesse em aprender novos movimentos e desafios propostos pelo professor.',
+            'Interage positivamente com os colegas durante as atividades de movimento.',
+            'A criança realiza os movimentos com criatividade e espontaneidade.',
+            'Participa das aulas de forma colaborativa, respeitando as orientações do professor.',
+            'O envolvimento nas aulas de movimento favorece o desenvolvimento global da criança.',
+        ],
+        'Inicialmente resistiu, mas passou a participar com incentivo.': [
+            'No início, a criança demonstrou resistência às aulas de capoeira (ou movimento orientado), mas passou a participar com incentivo.',
+            'Apresentou certa hesitação nas primeiras aulas, mas com apoio, envolveu-se nas atividades.',
+            'Aos poucos, superou a resistência inicial e passou a participar das propostas de movimento.',
+            'Com incentivo do professor e dos colegas, a criança se sentiu mais segura para participar.',
+            'A participação nas aulas de movimento evoluiu positivamente após estímulos e encorajamento.',
+            'Demonstra avanços na participação, mesmo que ainda precise de algum incentivo.',
+            'A criança está em processo de adaptação às atividades de movimento, mostrando progresso.',
+            'O apoio recebido contribuiu para o aumento do interesse e da participação nas aulas.',
+            'Participa das atividades de movimento, ainda que de forma gradual e com apoio.',
+            'A superação da resistência inicial evidencia resiliência e capacidade de adaptação.',
+        ],
+        'Participa parcialmente, com apoio individual.': [
+            'A criança participa das aulas de capoeira (ou movimento orientado) de forma parcial, necessitando de apoio individual.',
+            'Demonstra interesse em algumas atividades, mas ainda precisa de acompanhamento próximo.',
+            'A participação ocorre de maneira seletiva, envolvendo-se mais em determinadas propostas.',
+            'O apoio individual é importante para que a criança se sinta segura durante as aulas.',
+            'Participa das atividades de movimento, mas pode apresentar insegurança em alguns momentos.',
+            'A criança está em processo de adaptação, necessitando de estímulos personalizados.',
+            'Demonstra avanços pontuais, mas ainda requer incentivo para maior envolvimento.',
+            'O acompanhamento individual favorece o desenvolvimento da confiança nas aulas de movimento.',
+            'Participa das aulas, mas pode se afastar em situações de maior desafio.',
+            'A participação parcial indica a necessidade de estratégias diferenciadas para maior inclusão.',
+        ],
+        'Ainda não participa ou se recusa frequentemente.': [
+            'A criança ainda não participa das aulas de capoeira (ou movimento orientado) ou se recusa com frequência.',
+            'Demonstra resistência às atividades de movimento, preferindo não se envolver.',
+            'Apresenta recusa frequente em participar das propostas de movimento.',
+            'A participação nas aulas de movimento é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável diante das atividades de movimento.',
+            'Ainda não demonstra interesse em participar das aulas, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas aulas de movimento.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas atividades.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
+    },
+    11: {
+        'De 0 a 5.': [
+            'A criança identifica os números de 0 a 5, demonstrando compreensão inicial dos numerais.',
+            'Reconhece e nomeia os números de 0 a 5 em atividades e jogos propostos.',
+            'Demonstra interesse em identificar os números de 0 a 5 em diferentes contextos.',
+            'Participa de atividades de contagem e reconhecimento dos números de 0 a 5 com entusiasmo.',
+            'O domínio dos números de 0 a 5 contribui para o desenvolvimento do raciocínio lógico.',
+            'Mostra-se atenta ao identificar os números de 0 a 5 em materiais didáticos.',
+            'Utiliza o conhecimento dos números de 0 a 5 em situações cotidianas.',
+            'Demonstra alegria ao reconhecer os números de 0 a 5 em jogos e brincadeiras.',
+            'A identificação dos números de 0 a 5 é realizada de forma espontânea e frequente.',
+            'O reconhecimento dos números de 0 a 5 favorece o avanço no processo de alfabetização matemática.',
+        ],
+        'De 0 a 10.': [
+            'A criança identifica os números de 0 a 10, ampliando seu repertório numérico.',
+            'Demonstra facilidade ao reconhecer e nomear os números de 0 a 10 em diferentes situações.',
+            'Participa de atividades que envolvem a identificação dos números de 0 a 10 com autonomia.',
+            'Apresenta domínio crescente na identificação dos números de 0 a 10.',
+            'Utiliza o conhecimento dos números de 0 a 10 em jogos, brincadeiras e propostas pedagógicas.',
+            'Mostra-se motivada ao ampliar o reconhecimento dos números para além do 5.',
+            'Demonstra atenção e concentração ao identificar os números de 0 a 10.',
+            'A identificação dos números de 0 a 10 é realizada com segurança, favorecendo o desenvolvimento matemático.',
+            'Explora diferentes formas de reconhecer os números de 0 a 10, como músicas, rimas e atividades lúdicas.',
+            'O domínio dos números de 0 a 10 evidencia avanços significativos no raciocínio lógico.',
+        ],
+        'De 0 a 100.': [
+            'A criança identifica os números de 0 a 100, demonstrando amplo domínio dos numerais.',
+            'Reconhece e nomeia os números de 0 a 100 em diferentes contextos e atividades.',
+            'Demonstra facilidade em localizar qualquer número de 0 a 100 em textos, jogos e materiais didáticos.',
+            'Participa de atividades de identificação dos números de 0 a 100 com autonomia.',
+            'O domínio dos números de 0 a 100 é evidente em suas produções escritas e orais.',
+            'Mostra-se confiante ao utilizar os números de 0 a 100 em situações cotidianas.',
+            'Apresenta reconhecimento rápido e preciso dos números de 0 a 100.',
+            'Demonstra interesse em explorar novos desafios numéricos a partir do conhecimento dos números de 0 a 100.',
+            'O reconhecimento dos números de 0 a 100 favorece o desenvolvimento da leitura e escrita matemática.',
+            'Participa de propostas pedagógicas que envolvem os números de 0 a 100 com entusiasmo e criatividade.',
+        ],
+    },
+    10: {
+        'Conta até 10.': [
+            'A criança conta com segurança até 10, demonstrando compreensão dos números iniciais.',
+            'Apresenta domínio na contagem até 10, participando de atividades numéricas com interesse.',
+            'Realiza contagem oral até 10 de forma autônoma e confiante.',
+            'Demonstra facilidade ao contar objetos e elementos até 10.',
+            'Participa de jogos e dinâmicas que envolvem a contagem até 10 com entusiasmo.',
+            'O domínio da contagem até 10 contribui para o desenvolvimento do raciocínio lógico.',
+            'Mostra-se atenta ao realizar sequências numéricas até 10 em diferentes contextos.',
+            'Utiliza a contagem até 10 em situações cotidianas e propostas pedagógicas.',
+            'Demonstra alegria ao contar até 10, interagindo com colegas e professores.',
+            'A contagem até 10 é realizada de forma espontânea e frequente nas atividades.',
+        ],
+        'Conta até 20.': [
+            'A criança conta até 20, ampliando seu repertório numérico e demonstrando evolução no aprendizado.',
+            'Demonstra facilidade ao realizar a contagem oral até 20 em diferentes situações.',
+            'Participa de atividades que envolvem a contagem até 20 com autonomia e interesse.',
+            'Apresenta domínio crescente na sequência numérica até 20.',
+            'Utiliza a contagem até 20 em jogos, brincadeiras e propostas pedagógicas.',
+            'Mostra-se motivada ao ampliar a contagem para além do 10, buscando novos desafios.',
+            'Demonstra atenção e concentração ao contar até 20 em grupo ou individualmente.',
+            'A contagem até 20 é realizada com segurança, favorecendo o desenvolvimento matemático.',
+            'Explora diferentes formas de contar até 20, como músicas, rimas e atividades lúdicas.',
+            'O domínio da contagem até 20 evidencia avanços significativos no raciocínio lógico.',
+        ],
+        'Conta até 50.': [
+            'A criança conta até 50, demonstrando amplo domínio da sequência numérica.',
+            'Realiza a contagem oral até 50 com autonomia e precisão.',
+            'Participa de atividades que envolvem a contagem até 50 com entusiasmo e interesse.',
+            'Demonstra facilidade ao contar até 50 em diferentes contextos e propostas.',
+            'O domínio da contagem até 50 contribui para o desenvolvimento de habilidades matemáticas avançadas.',
+            'Mostra-se confiante ao realizar sequências numéricas longas, como até 50.',
+            'Utiliza a contagem até 50 em jogos, desafios e situações cotidianas.',
+            'A contagem até 50 é realizada de forma espontânea e frequente nas atividades.',
+            'Demonstra alegria e motivação ao contar até 50, superando novos desafios.',
+            'O conhecimento da contagem até 50 favorece o avanço no processo de alfabetização matemática.',
+        ],
+    },
+    9: {
+        'Reconhece as letras de seu nome.': [
+            'A criança já reconhece as letras que compõem seu próprio nome, demonstrando atenção e interesse ao identificar essas letras em diferentes contextos.',
+            'Mostra-se capaz de identificar as letras do próprio nome em atividades e materiais escolares.',
+            'Demonstra satisfação ao reconhecer as letras do seu nome, participando ativamente das propostas relacionadas.',
+            'Durante as atividades, destaca as letras do seu nome com facilidade e entusiasmo.',
+            'Apresenta reconhecimento consistente das letras do próprio nome, o que contribui para o avanço no processo de alfabetização.',
+            'Identifica as letras do seu nome em diferentes situações, como cartazes, listas e jogos.',
+            'Demonstra interesse em procurar e apontar as letras do seu nome em livros e outros materiais.',
+            'O reconhecimento das letras do próprio nome é realizado de forma espontânea e segura.',
+            'Participa de atividades de identificação do nome com autonomia e confiança.',
+            'O domínio das letras do próprio nome é um indicativo positivo do desenvolvimento da consciência fonológica.',
+        ],
+        'Reconhece as vogais.': [
+            'A criança reconhece as vogais, identificando-as em palavras e atividades propostas em sala.',
+            'Demonstra facilidade em apontar e nomear as vogais em diferentes contextos.',
+            'Participa de jogos e dinâmicas que envolvem o reconhecimento das vogais com interesse.',
+            'Mostra-se atenta ao identificar as vogais em músicas, histórias e materiais didáticos.',
+            'O reconhecimento das vogais ocorre de forma espontânea e frequente nas atividades.',
+            'Demonstra domínio das vogais, utilizando esse conhecimento para formar palavras simples.',
+            'Apresenta segurança ao diferenciar as vogais das demais letras do alfabeto.',
+            'Consegue localizar e destacar as vogais em textos e listas de palavras.',
+            'O reconhecimento das vogais contribui para o avanço no processo de alfabetização.',
+            'Participa ativamente das propostas que envolvem a identificação e uso das vogais.',
+        ],
+        'Reconhece todo o alfabeto.': [
+            'A criança reconhece todas as letras do alfabeto, demonstrando amplo domínio do repertório gráfico.',
+            'Identifica e nomeia as letras do alfabeto em diferentes contextos e atividades.',
+            'Demonstra facilidade em localizar qualquer letra do alfabeto em textos, jogos e materiais didáticos.',
+            'Participa de atividades de alfabetização com autonomia, reconhecendo todas as letras com segurança.',
+            'O domínio do alfabeto é evidente em suas produções escritas e orais.',
+            'Mostra-se confiante ao utilizar o alfabeto para formar palavras e frases.',
+            'Apresenta reconhecimento rápido e preciso das letras, tanto em ordem quanto fora de ordem alfabética.',
+            'Demonstra interesse em explorar novas palavras e ampliar seu vocabulário a partir do conhecimento do alfabeto.',
+            'O reconhecimento de todas as letras favorece o desenvolvimento da leitura e escrita.',
+            'Participa de propostas pedagógicas que envolvem o alfabeto com entusiasmo e criatividade.',
+        ],
+    },
+    1: {
+        'Entrou na sala com tranquilidade e interesse desde o primeiro dia.': [
+            'Desde o início do semestre, a criança demonstrou tranquilidade e interesse ao ingressar na sala, adaptando-se rapidamente ao novo ambiente.',
+            'Logo nos primeiros dias, a criança entrou na sala com serenidade e curiosidade, mostrando facilidade em se ambientar.',
+            'A adaptação foi tranquila, com a criança apresentando interesse pelas atividades e pelo convívio escolar desde o começo.',
+            'A criança mostrou-se segura e receptiva ao novo ambiente, participando das rotinas escolares com entusiasmo desde o início.',
+            'Desde o primeiro dia, a criança demonstrou confiança e disposição para explorar a sala e interagir com colegas e professores.',
+            'A chegada à escola foi marcada por tranquilidade e interesse, facilitando o processo de adaptação da criança.',
+            'A criança apresentou uma postura positiva e aberta ao novo, integrando-se rapidamente à rotina escolar.',
+            'O processo de adaptação ocorreu de forma natural, com a criança mostrando-se confortável e participativa desde o início.',
+            'A criança ingressou na sala com alegria e curiosidade, demonstrando facilidade em se adaptar ao ambiente escolar.',
+            'A adaptação foi marcada por interesse e tranquilidade, evidenciando a segurança da criança diante do novo contexto.',
+        ],
+        'Chorava ou resistia ao se separar dos responsáveis, mas adaptou-se com o tempo.': [
+            'No início do semestre, a criança apresentou choro ou resistência ao se separar dos responsáveis, mas gradualmente adaptou-se à rotina escolar.',
+            'A adaptação foi marcada por momentos de choro e resistência, porém, com o tempo, a criança passou a se sentir mais segura e integrada.',
+            'Houve certa dificuldade inicial na separação dos responsáveis, mas a criança conseguiu superar esse desafio ao longo das semanas.',
+            'Apesar do choro nos primeiros dias, a criança demonstrou evolução positiva, adaptando-se progressivamente ao ambiente escolar.',
+            'A criança apresentou resistência inicial, mas, com acolhimento e paciência, conseguiu se adaptar à nova rotina.',
+            'O processo de adaptação envolveu desafios emocionais, superados gradualmente com o apoio da equipe escolar.',
+            'A separação dos responsáveis foi difícil no começo, mas a criança mostrou avanços significativos na adaptação ao longo do tempo.',
+            'A criança enfrentou dificuldades emocionais iniciais, mas conseguiu se adaptar e participar das atividades escolares.',
+            'Com o passar dos dias, a criança superou a resistência inicial e passou a se envolver mais nas rotinas da sala.',
+            'A adaptação foi um processo gradual, com a criança vencendo a resistência inicial e integrando-se ao grupo.',
+        ],
+        'Entrava com autonomia, mas demonstrava certa timidez.': [
+            'A criança ingressava na sala de forma autônoma, porém apresentava sinais de timidez diante do novo ambiente.',
+            'Apesar de entrar sozinha na sala, a criança demonstrava certa reserva e observava o ambiente com cautela.',
+            'A adaptação foi marcada por autonomia na chegada, mas acompanhada de comportamentos tímidos e discretos.',
+            'A criança mostrava-se independente ao entrar, mas mantinha uma postura mais reservada nas interações iniciais.',
+            'Houve autonomia no ingresso à sala, embora a criança preferisse observar antes de se envolver nas atividades.',
+            'A criança apresentava iniciativa para entrar na sala, mas sua participação era mais silenciosa e observadora.',
+            'Mesmo entrando sem auxílio, a criança demonstrava timidez ao se aproximar dos colegas e das atividades.',
+            'A chegada era autônoma, mas a criança precisava de tempo para se soltar e interagir com o grupo.',
+            'A criança ingressava de forma independente, mas sua adaptação foi gradual devido à sua natureza mais tímida.',
+            'A autonomia na entrada contrastava com a postura reservada da criança nos primeiros dias de adaptação.',
+        ],
+        'Teve dificuldades significativas na adaptação, resistindo ao ambiente e às novas rotinas.': [
+            'A criança enfrentou dificuldades expressivas para se adaptar, demonstrando resistência ao ambiente escolar e às novas rotinas.',
+            'O processo de adaptação foi desafiador, com a criança apresentando resistência frequente às propostas e ao convívio escolar.',
+            'Houve significativa dificuldade de adaptação, com a criança mostrando-se desconfortável diante das mudanças.',
+            'A resistência ao novo ambiente e às rotinas escolares foi marcante durante o processo de adaptação.',
+            'A criança apresentou dificuldades para aceitar as novas rotinas, necessitando de apoio constante da equipe escolar.',
+            'A adaptação foi marcada por resistência e desconforto, exigindo estratégias diferenciadas de acolhimento.',
+            'A criança demonstrou relutância em participar das atividades e em se integrar ao grupo, tornando a adaptação mais lenta.',
+            'O período inicial foi caracterizado por dificuldades de aceitação do ambiente e das rotinas escolares.',
+            'A criança resistiu às mudanças propostas, apresentando dificuldades para se adaptar ao contexto escolar.',
+            'A adaptação exigiu atenção especial devido à resistência significativa da criança ao novo ambiente.',
+        ],
+        'Ainda apresenta resistência e necessita de acompanhamento constante.': [
+            'Mesmo após o período inicial, a criança ainda apresenta resistência à rotina escolar e necessita de acompanhamento constante.',
+            'A adaptação permanece em andamento, com a criança demonstrando necessidade de apoio contínuo para se sentir segura.',
+            'A criança ainda encontra dificuldades para se adaptar plenamente, exigindo acompanhamento próximo da equipe escolar.',
+            'Persistem sinais de resistência à rotina e ao ambiente escolar, sendo necessário acompanhamento constante.',
+            'A criança requer atenção especial, pois ainda não se adaptou completamente ao contexto escolar.',
+            'O processo de adaptação segue em curso, com a criança necessitando de suporte frequente para lidar com as rotinas.',
+            'A resistência ao ambiente escolar ainda é observada, demandando acompanhamento e acolhimento contínuos.',
+            'A criança apresenta dificuldades persistentes de adaptação, sendo necessário acompanhamento individualizado.',
+            'Mesmo com intervenções, a criança ainda demonstra resistência e insegurança diante das rotinas escolares.',
+            'A adaptação não foi plenamente alcançada, sendo fundamental o acompanhamento constante para o bem-estar da criança.',
+        ],
+    },
+    2: {
+        'Alegre e afetuosa': [
+            'A criança é alegre e afetuosa, demonstrando carinho nas interações com colegas e adultos.',
+            'Demonstra alegria e afeto em suas relações diárias, contribuindo para um ambiente acolhedor.',
+            'Sua postura afetuosa favorece a construção de vínculos positivos na turma.',
+            'A criança expressa sentimentos de carinho e empatia com facilidade.',
+            'Mostra-se sempre sorridente e disposta a ajudar os outros.',
+            'O afeto é uma característica marcante em seu convívio escolar.',
+            'Demonstra entusiasmo e alegria ao participar das atividades.',
+            'Sua presença é fonte de energia positiva para o grupo.',
+            'A criança acolhe os colegas com gestos de carinho e atenção.',
+            'O comportamento afetuoso contribui para o bem-estar coletivo.',
+        ],
+        'Reservada ou tímida': [
+            'A criança é reservada ou tímida, preferindo observar antes de se envolver nas atividades.',
+            'Demonstra certa timidez em situações novas, mas se adapta com o tempo.',
+            'Prefere ambientes tranquilos e interações em pequenos grupos.',
+            'Sua postura reservada é respeitada e valorizada pela equipe escolar.',
+            'A criança se expressa com cautela, buscando segurança no ambiente.',
+            'Demonstra sensibilidade e discrição nas relações interpessoais.',
+            'A timidez não impede sua participação, mas ela precisa de estímulo para se integrar.',
+            'Com apoio, vai ganhando confiança e ampliando sua participação.',
+            'Prefere atividades mais calmas e momentos de introspecção.',
+            'A criança observa atentamente antes de se envolver nas propostas.',
+        ],
+        'Energia alta e muito ativa': [
+            'A criança possui energia alta e é muito ativa, participando intensamente das atividades.',
+            'Demonstra disposição e entusiasmo em todas as propostas escolares.',
+            'Sua energia contagia o grupo, incentivando a participação dos colegas.',
+            'Mostra-se inquieta e está sempre em movimento.',
+            'A criança gosta de explorar o ambiente e experimentar novas brincadeiras.',
+            'Participa das atividades com vigor e dinamismo.',
+            'Demonstra interesse por atividades que envolvem movimento e desafios.',
+            'Sua vivacidade é uma característica marcante no cotidiano escolar.',
+            'A criança se destaca pela energia e iniciativa nas brincadeiras.',
+            'O ritmo acelerado é uma de suas principais características.',
+        ],
+        'Comunicação verbal clara': [
+            'A criança apresenta comunicação verbal clara, expressando suas ideias com facilidade.',
+            'Demonstra boa articulação ao se comunicar com colegas e adultos.',
+            'Sua fala é compreensível e contribui para o diálogo no grupo.',
+            'A criança se expressa de forma objetiva e segura.',
+            'Mostra-se comunicativa e participa ativamente das conversas.',
+            'A clareza na comunicação favorece a integração com os colegas.',
+            'Demonstra vocabulário adequado à faixa etária.',
+            'A criança argumenta e defende suas opiniões com respeito.',
+            'Sua comunicação verbal é um ponto forte em seu desenvolvimento.',
+            'A criança utiliza a linguagem para resolver conflitos e interagir.',
+        ],
+        'Comunicação verbal com dificuldades': [
+            'A criança apresenta dificuldades na comunicação verbal, necessitando de apoio para se expressar.',
+            'Demonstra limitações na articulação da fala em algumas situações.',
+            'Sua comunicação é restrita, preferindo gestos ou expressões não verbais.',
+            'A criança se esforça para se comunicar, mas encontra obstáculos na fala.',
+            'Mostra-se tímida ao falar em público ou em grupo.',
+            'A equipe escolar acompanha o desenvolvimento da linguagem oral.',
+            'Demonstra interesse em se comunicar, mesmo com dificuldades.',
+            'A criança utiliza recursos alternativos para se fazer entender.',
+            'A comunicação verbal está em processo de desenvolvimento.',
+            'O apoio dos colegas e educadores é fundamental para sua expressão.',
+        ],
+        'Prefere brincar sozinha': [
+            'A criança prefere brincar sozinha, demonstrando autonomia e criatividade nas escolhas.',
+            'Mostra-se independente ao selecionar suas atividades lúdicas.',
+            'A brincadeira solitária é uma opção frequente em seu cotidiano.',
+            'Demonstra interesse por atividades individuais e momentos de introspecção.',
+            'A criança valoriza o tempo sozinha para explorar seus interesses.',
+            'Prefere ambientes tranquilos e brincadeiras sem muitos colegas.',
+            'A autonomia é evidenciada nas escolhas de brincadeiras.',
+            'A criança se envolve profundamente nas atividades que realiza sozinha.',
+            'A brincadeira individual contribui para o desenvolvimento da criatividade.',
+            'A criança alterna entre momentos de interação e brincadeiras solitárias.',
+        ],
+        'Gosta de brincar em grupo': [
+            'A criança gosta de brincar em grupo, demonstrando facilidade para se integrar.',
+            'Participa ativamente das brincadeiras coletivas, interagindo com os colegas.',
+            'Demonstra interesse por atividades em grupo e jogos cooperativos.',
+            'A socialização é um ponto forte em seu desenvolvimento.',
+            'A criança valoriza o convívio com os colegas durante as brincadeiras.',
+            'Mostra-se colaborativa e respeitosa nas interações em grupo.',
+            'A participação nas brincadeiras coletivas é frequente e positiva.',
+            'Demonstra empatia e solidariedade ao brincar com os outros.',
+            'A criança incentiva a participação dos colegas nas atividades.',
+            'O trabalho em grupo é uma de suas preferências lúdicas.',
+        ],
+        'Demonstra resistência em algumas situações': [
+            'A criança demonstra resistência em algumas situações, necessitando de incentivo para participar.',
+            'Mostra-se relutante diante de propostas novas ou desafiadoras.',
+            'A resistência é observada em momentos de transição ou mudanças na rotina.',
+            'A criança precisa de tempo para se adaptar a novas experiências.',
+            'Demonstra insegurança ao enfrentar situações desconhecidas.',
+            'A equipe escolar utiliza estratégias para favorecer sua participação.',
+            'A resistência é trabalhada com acolhimento e paciência.',
+            'A criança pode recusar algumas atividades, mas avança com apoio.',
+            'A participação ocorre de forma gradual, respeitando seu ritmo.',
+            'A resistência é um aspecto a ser acompanhado no cotidiano escolar.',
+        ],
+        'Outros (especifique): ___________________________': [
+            'A criança apresenta outras características marcantes, que enriquecem o convívio escolar.',
+            'Demonstra particularidades que contribuem para a diversidade do grupo.',
+            'Possui traços singulares que são respeitados e valorizados pela equipe.',
+            'A individualidade da criança é reconhecida e celebrada no ambiente escolar.',
+            'Apresenta comportamentos e interesses próprios, enriquecendo as interações.',
+            'A criança contribui com ideias e pontos de vista originais nas atividades.',
+            'Sua forma de ser inspira acolhimento e empatia entre os colegas.',
+            'A presença da criança agrega valor ao ambiente escolar.',
+            'Demonstra características únicas que favorecem o respeito às diferenças.',
+            'A equipe escolar incentiva a expressão de sua autenticidade.',
+        ],
+    },
+    3: {
+        'Participa ativamente, cantando, fazendo os gestos e acompanhando o ritmo.': [
+            'A criança participa ativamente da roda rítmica, cantando, realizando os gestos e acompanhando o ritmo com entusiasmo.',
+            'Demonstra envolvimento pleno nas atividades rítmicas, acompanhando músicas e movimentos com alegria.',
+            'Mostra-se engajada, realizando todos os gestos e acompanhando o ritmo proposto.',
+            'Participa com energia e disposição, incentivando os colegas a se envolverem também.',
+            'A criança se destaca pela participação ativa e pelo entusiasmo durante a roda rítmica.',
+            'Canta, faz os gestos e acompanha o ritmo de forma espontânea e animada.',
+            'Demonstra coordenação motora e musicalidade ao participar da roda rítmica.',
+            'Sua presença é marcante, contribuindo para o clima positivo do grupo.',
+            'A criança aproveita cada momento da roda rítmica, mostrando prazer em participar.',
+            'A participação ativa favorece o desenvolvimento musical e social.',
+        ],
+        'Participa com incentivo da professora, demonstrando envolvimento gradual.': [
+            'A criança participa da roda rítmica com incentivo da professora, demonstrando envolvimento gradual nas atividades.',
+            'Com o apoio da educadora, vai se soltando e acompanhando os gestos e o ritmo.',
+            'Demonstra interesse crescente, participando mais a cada nova proposta.',
+            'Precisa de estímulo para se envolver, mas responde positivamente ao incentivo.',
+            'A participação ocorre de forma progressiva, com envolvimento cada vez maior.',
+            'Com o tempo, passa a cantar e acompanhar os gestos com mais segurança.',
+            'O incentivo da professora é fundamental para seu engajamento na roda rítmica.',
+            'Demonstra evolução no envolvimento, participando mais a cada dia.',
+            'A criança vai ganhando confiança e ampliando sua participação nas atividades rítmicas.',
+            'O envolvimento gradual é acompanhado de avanços significativos.',
+        ],
+        'Observa mais do que participa, mas demonstra curiosidade.': [
+            'A criança observa mais do que participa da roda rítmica, mas demonstra curiosidade pelas atividades.',
+            'Prefere assistir aos colegas, acompanhando com o olhar e demonstrando interesse.',
+            'Demonstra curiosidade pelas músicas e gestos, mesmo sem participar ativamente.',
+            'Observa atentamente os movimentos e o ritmo, mostrando vontade de aprender.',
+            'A participação é discreta, mas a curiosidade é evidente durante as atividades.',
+            'A criança acompanha com atenção, mesmo sem realizar todos os gestos.',
+            'Demonstra interesse em compreender a dinâmica da roda rítmica.',
+            'A observação é uma etapa importante para seu processo de participação.',
+            'Com o tempo, pode se sentir mais segura para participar ativamente.',
+            'A curiosidade é um indicativo de abertura para futuras participações.',
+        ],
+        'Resiste ou não participa da roda rítmica mesmo com incentivo.': [
+            'A criança resiste ou não participa da roda rítmica, mesmo quando incentivada pela professora.',
+            'Demonstra pouca disposição para se envolver nas atividades rítmicas.',
+            'Prefere não participar, mantendo-se afastada das músicas e gestos.',
+            'A resistência é observada mesmo diante de diferentes estratégias de incentivo.',
+            'A criança evita o contato com as dinâmicas da roda rítmica.',
+            'Mostra-se desinteressada pelas atividades musicais e corporais.',
+            'A participação é mínima ou inexistente, mesmo com estímulo dos educadores.',
+            'A resistência pode estar relacionada a fatores emocionais ou de preferência.',
+            'A criança necessita de acompanhamento para ampliar seu envolvimento.',
+            'O não envolvimento é respeitado, mas estratégias de inclusão são mantidas.',
+        ],
+    },
+    4: {
+        'Alimenta-se com autonomia, aceita a maioria dos alimentos e come concentrada.': [
+            'A criança alimenta-se com autonomia, aceitando a maioria dos alimentos e mantendo-se concentrada durante o lanche.',
+            'Demonstra independência ao se servir e comer, aceitando bem os alimentos oferecidos.',
+            'Participa do lanche de forma tranquila, com boa aceitação alimentar.',
+            'Mostra-se concentrada e interessada durante o momento do lanche.',
+            'A autonomia e a aceitação alimentar são pontos positivos em sua rotina.',
+            'A criança aprecia o lanche, experimentando diferentes alimentos com facilidade.',
+            'Demonstra hábitos alimentares saudáveis e boa adaptação à rotina escolar.',
+            'Aceita a maioria dos alimentos, contribuindo para uma alimentação equilibrada.',
+            'A participação no lanche é marcada por autonomia e envolvimento.',
+            'A criança realiza o lanche de forma independente e concentrada.',
+        ],
+        'Alimenta-se com autonomia, mas tem preferências alimentares marcadas (ex: não come carnes ou legumes).': [
+            'A criança alimenta-se com autonomia, mas apresenta preferências alimentares marcadas, como recusa de carnes ou legumes.',
+            'Demonstra independência ao se alimentar, porém seleciona os alimentos que consome.',
+            'Participa do lanche de forma autônoma, mas com restrições alimentares evidentes.',
+            'Mostra-se seletiva em relação a alguns alimentos, mesmo mantendo a autonomia.',
+            'A autonomia é acompanhada de preferências alimentares específicas.',
+            'A criança recusa determinados alimentos, mas realiza o lanche sozinha.',
+            'Demonstra hábitos alimentares próprios, respeitando suas preferências.',
+            'A participação no lanche é independente, mas com escolhas alimentares restritas.',
+            'Aceita alguns alimentos com facilidade, mas recusa outros de forma consistente.',
+            'A seletividade alimentar não compromete sua autonomia durante o lanche.',
+        ],
+        'Precisa de incentivo ou ajuda para se alimentar, com alguma seletividade.': [
+            'A criança precisa de incentivo ou ajuda para se alimentar, apresentando certa seletividade.',
+            'Demonstra necessidade de apoio dos adultos para aceitar alguns alimentos.',
+            'Participa do lanche com auxílio, mostrando seletividade alimentar.',
+            'Mostra-se hesitante diante de novos alimentos, necessitando incentivo.',
+            'A seletividade alimentar exige estratégias de incentivo e acompanhamento.',
+            'A criança aceita parte dos alimentos, mas recusa outros com frequência.',
+            'A participação no lanche depende do apoio dos educadores.',
+            'Demonstra interesse variável pelos alimentos, precisando de estímulo.',
+            'A alimentação é realizada com ajuda, especialmente diante de alimentos novos.',
+            'A seletividade alimentar é um aspecto a ser trabalhado no cotidiano escolar.',
+        ],
+        'Apresenta resistência intensa e só aceita se houver adaptação (brinquedos, apoio direto).': [
+            'A criança apresenta resistência intensa para se alimentar, aceitando apenas com adaptações como brinquedos ou apoio direto.',
+            'Demonstra grande dificuldade para aceitar os alimentos durante o lanche.',
+            'A alimentação só ocorre quando há estratégias diferenciadas de adaptação.',
+            'Mostra-se resistente ao momento do lanche, necessitando de apoio constante.',
+            'A aceitação alimentar depende de intervenções específicas e adaptações.',
+            'A criança recusa a maioria dos alimentos, aceitando apenas em situações adaptadas.',
+            'A resistência intensa exige acompanhamento individualizado.',
+            'A participação no lanche é mínima sem adaptações ou incentivos especiais.',
+            'A alimentação é um desafio, sendo necessário apoio direto dos educadores.',
+            'A resistência alimentar é um aspecto que demanda atenção contínua.',
+        ],
+    },
+    5: {
+        'Explora os espaços com segurança, interage com colegas e demonstra equilíbrio corporal.': [
+            'A criança explora os espaços externos com segurança, interagindo de forma positiva com os colegas e demonstrando bom equilíbrio corporal.',
+            'Durante as brincadeiras ao ar livre, mostra-se confiante, participando ativamente e respeitando os limites do espaço.',
+            'Demonstra autonomia e iniciativa para propor e participar de diferentes brincadeiras nos parques.',
+            'Interage de maneira harmoniosa com o grupo, promovendo cooperação e respeito nas atividades externas.',
+            'A criança utiliza os brinquedos do parque com destreza, evidenciando habilidades motoras desenvolvidas.',
+            'Sua participação nas brincadeiras externas é marcada por alegria, segurança e envolvimento.',
+            'Mostra-se aberta a novas experiências, explorando diferentes áreas do parque com curiosidade.',
+            'Demonstra equilíbrio emocional e físico durante as interações nos espaços externos.',
+            'A criança contribui para um ambiente de brincadeira saudável e seguro para todos.',
+            'Sua postura nas atividades ao ar livre favorece o desenvolvimento global.',
+        ],
+        'Gosta de brincar, mas inicialmente buscava ficar mais próxima do adulto.': [
+            'A criança aprecia as brincadeiras nos parques, mas inicialmente buscava a proximidade do adulto para se sentir segura.',
+            'No início das atividades externas, preferia permanecer próxima dos educadores, ganhando confiança gradualmente.',
+            'Demonstra interesse pelas brincadeiras, mas recorre ao adulto em situações de insegurança.',
+            'Aos poucos, foi se soltando e participando mais ativamente das brincadeiras ao ar livre.',
+            'A presença do adulto é um fator de segurança, mas a criança mostra evolução na autonomia durante as brincadeiras.',
+            'Com o tempo, passou a explorar os espaços externos com mais independência.',
+            'A criança alterna entre brincar com colegas e buscar apoio do adulto, especialmente em situações novas.',
+            'Demonstra vínculo afetivo com os educadores, o que favorece sua adaptação às atividades externas.',
+            'A participação nas brincadeiras ao ar livre é crescente, acompanhada de apoio emocional dos adultos.',
+            'Sua trajetória nas atividades externas revela avanços na confiança e autonomia.',
+        ],
+        'Demonstra insegurança ou pouca iniciativa para brincar.': [
+            'A criança demonstra certa insegurança ou pouca iniciativa para brincar nos espaços externos.',
+            'Prefere observar as brincadeiras antes de se envolver, necessitando de incentivo dos adultos.',
+            'Sua participação nas atividades ao ar livre é limitada, sendo mais frequente quando estimulada.',
+            'Demonstra hesitação diante de novas brincadeiras ou ambientes desconhecidos.',
+            'A criança pode apresentar receio de se afastar do adulto durante as atividades externas.',
+            'Mostra-se reservada nas interações com colegas durante as brincadeiras ao ar livre.',
+            'A participação nas atividades externas ocorre de forma gradual, conforme ganha confiança.',
+            'Demonstra preferência por brincadeiras mais tranquilas ou solitárias nos parques.',
+            'A criança necessita de apoio para ampliar sua participação nas brincadeiras externas.',
+            'Sua postura nas atividades ao ar livre indica necessidade de acompanhamento para maior envolvimento.',
+        ],
+        'Explora com entusiasmo, mas às vezes apresenta comportamentos de risco ou esbarra nos colegas.': [
+            'A criança explora os espaços externos com entusiasmo, mas por vezes apresenta comportamentos de risco ou esbarra nos colegas.',
+            'Demonstra energia elevada durante as brincadeiras ao ar livre, necessitando de orientação para evitar acidentes.',
+            'Sua participação nas atividades externas é intensa, exigindo supervisão para garantir a segurança.',
+            'Mostra-se impulsiva em algumas situações, o que pode resultar em pequenos incidentes durante as brincadeiras.',
+            'A criança precisa de limites claros para aproveitar as brincadeiras externas de forma segura.',
+            'Demonstra alegria e disposição, mas requer acompanhamento para evitar comportamentos inadequados.',
+            'A energia nas atividades ao ar livre é positiva, desde que canalizada com orientação dos adultos.',
+            'A criança aprende gradualmente a respeitar o espaço dos colegas durante as brincadeiras.',
+            'Sua participação nas atividades externas é marcada por entusiasmo e necessidade de supervisão.',
+            'O acompanhamento dos educadores é fundamental para garantir a segurança nas brincadeiras ao ar livre.',
+        ],
+        'Prefere brincadeiras específicas (ex: balanço, escorregador, pneus, casinha, etc.) ______________________': [
+            'A criança demonstra preferência por brincadeiras específicas nos parques, como balanço, escorregador, pneus ou casinha.',
+            'Durante as atividades externas, busca prioritariamente os brinquedos ou espaços de sua preferência.',
+            'Mostra-se engajada quando pode participar das brincadeiras que mais aprecia.',
+            'A escolha por determinadas brincadeiras é respeitada, favorecendo o bem-estar da criança.',
+            'Demonstra satisfação ao utilizar os brinquedos preferidos nos espaços externos.',
+            'A criança pode permanecer por mais tempo em uma única atividade, evidenciando sua preferência.',
+            'A seleção de brincadeiras específicas contribui para sua adaptação e segurança nos parques.',
+            'Os interesses particulares da criança são considerados na organização das atividades externas.',
+            'A preferência por certos brinquedos é observada e respeitada pelos educadores.',
+            'Sua participação nas brincadeiras externas é mais intensa quando envolvida em atividades de sua escolha.',
+        ],
+    },
+    6: {
+        'Participa com concentração, dedicação e criatividade.': [
+            'A criança participa das atividades propostas com concentração, dedicação e criatividade, demonstrando envolvimento pleno.',
+            'Mostra-se atenta e interessada durante as atividades de desenho, pintura, colagem e modelagem.',
+            'Realiza as tarefas escolares com esmero, criatividade e atenção aos detalhes.',
+            'Demonstra prazer em criar e explorar diferentes materiais nas atividades artísticas.',
+            'A dedicação e o capricho são evidentes em suas produções escolares.',
+            'Participa das propostas com entusiasmo, contribuindo com ideias originais.',
+            'A criança se destaca pela criatividade e pelo envolvimento nas atividades.',
+            'Mostra iniciativa para experimentar novas técnicas e materiais.',
+            'A concentração durante as atividades favorece o desenvolvimento de suas habilidades.',
+            'Sua participação é marcada por empenho e criatividade em todas as propostas.',
+        ],
+        'Precisa de incentivo, mas realiza com empenho.': [
+            'A criança precisa de incentivo para iniciar as atividades, mas, uma vez envolvida, realiza com empenho.',
+            'Demonstra certa hesitação inicial, mas se dedica às tarefas após estímulo dos educadores.',
+            'Com apoio, participa das atividades de desenho, pintura, colagem e modelagem com interesse.',
+            'A motivação dos adultos é fundamental para seu engajamento nas propostas.',
+            'Após incentivo, realiza as atividades com dedicação e atenção.',
+            'A criança responde positivamente ao estímulo, mostrando empenho nas tarefas.',
+            'O apoio dos educadores é importante para sua participação nas atividades.',
+            'Demonstra evolução no envolvimento, realizando as propostas com afinco após incentivo.',
+            'A participação ocorre de forma mais efetiva quando recebe estímulo adequado.',
+            'Com incentivo, a criança se dedica e realiza as atividades propostas.',
+        ],
+        'Apresenta resistência e só realiza após mediação ou troca.': [
+            'A criança apresenta resistência para realizar as atividades propostas, necessitando de mediação ou troca para se envolver.',
+            'Demonstra recusa inicial, mas pode participar após intervenção dos educadores.',
+            'A participação nas atividades ocorre principalmente após mediação adequada.',
+            'Mostra-se resistente às propostas, realizando-as apenas mediante negociação.',
+            'A criança só se envolve nas tarefas após receber apoio e mediação dos adultos.',
+            'A resistência é superada gradualmente com estratégias de mediação.',
+            'A participação nas atividades depende de trocas e incentivos específicos.',
+            'Demonstra necessidade de acompanhamento para realizar as propostas escolares.',
+            'A criança realiza as atividades após receber mediação adequada.',
+            'A resistência inicial é um aspecto a ser trabalhado no cotidiano escolar.',
+        ],
+        'Tem dificuldade em manter-se na atividade e se dispersa facilmente.': [
+            'A criança tem dificuldade em manter-se nas atividades propostas, dispersando-se com facilidade.',
+            'Demonstra pouca concentração durante as tarefas de desenho, pintura, colagem e modelagem.',
+            'A participação nas atividades é prejudicada pela dificuldade de manter o foco.',
+            'Mostra-se inquieta e se dispersa facilmente durante as propostas escolares.',
+            'A criança necessita de acompanhamento para manter-se envolvida nas atividades.',
+            'A dispersão é frequente, exigindo estratégias para aumentar o tempo de atenção.',
+            'Demonstra interesse inicial, mas logo se dispersa das tarefas.',
+            'A dificuldade em manter-se na atividade impacta sua participação nas propostas.',
+            'A criança alterna momentos de envolvimento e dispersão durante as atividades.',
+            'A manutenção do foco é um desafio a ser trabalhado nas atividades escolares.',
+        ],
+        'Tem preferência por algum tipo de atividade? __________________________': [
+            'A criança demonstra preferência por determinado tipo de atividade, participando com mais interesse quando envolvida em suas escolhas.',
+            'Mostra-se mais engajada em atividades que correspondem às suas preferências.',
+            'A participação é mais efetiva quando pode escolher o tipo de atividade que mais aprecia.',
+            'Demonstra entusiasmo especial por determinadas propostas, como desenho, pintura ou modelagem.',
+            'A criança se destaca quando envolvida em atividades de sua preferência.',
+            'A escolha por certos tipos de atividade favorece seu envolvimento e dedicação.',
+            'Mostra maior concentração e criatividade nas propostas que mais gosta.',
+            'A preferência por determinadas atividades é respeitada e valorizada pelos educadores.',
+            'A criança realiza com mais empenho as tarefas que correspondem aos seus interesses.',
+            'A participação nas atividades é intensificada quando pode escolher o que mais gosta de fazer.',
+        ],
+    },
+    7: {
+        'Fase da Célula – O desenho parte do centro e os traços saem como “raios”. Representações humanas com traços saindo de uma forma redonda (ex: cabeça com pernas e braços).': [
+            'A criança encontra-se na Fase da Célula, realizando desenhos que partem do centro com traços irradiando como raios.',
+            'Seus desenhos apresentam formas centrais das quais partem linhas, lembrando representações humanas com traços saindo de uma cabeça redonda.',
+            'O grafismo é caracterizado por figuras centrais e traços que se expandem, típicos da Fase da Célula.',
+            'Demonstra interesse em desenhar pessoas ou objetos a partir de um núcleo central.',
+            'A produção gráfica evidencia a busca por representar o corpo humano com traços simples e irradiados.',
+            'Os desenhos mostram uma organização centrada, com linhas que sugerem membros ou raios.',
+            'A criança utiliza o centro da folha como ponto de partida para suas criações.',
+            'A Fase da Célula é marcada pela centralidade e pela expansão dos traços no papel.',
+            'Demonstra criatividade ao explorar formas circulares e linhas irradiadas.',
+            'A representação humana aparece de forma simplificada, com braços e pernas saindo de uma cabeça redonda.',
+        ],
+        'Fase da Garatuja – A criança realiza rabiscos ou traços aparentemente desorganizados, com repetição de gestos. Pode dar nomes aos desenhos, mesmo sem representação reconhecível.': [
+            'A criança encontra-se na Fase da Garatuja, realizando rabiscos ou traços desorganizados com repetição de gestos.',
+            'Os desenhos apresentam linhas soltas e movimentos repetitivos, típicos da Garatuja.',
+            'Demonstra prazer em explorar o papel com rabiscos livres e sem intenção definida.',
+            'A produção gráfica é marcada por gestos amplos e traços sobrepostos.',
+            'A criança pode atribuir nomes aos desenhos, mesmo que não sejam reconhecíveis.',
+            'O grafismo evidencia experimentação e liberdade de movimentos.',
+            'A Garatuja é uma etapa importante para o desenvolvimento da coordenação motora.',
+            'Demonstra criatividade ao explicar o que representa em seus rabiscos.',
+            'Os desenhos são espontâneos e refletem a fase inicial da expressão gráfica.',
+            'Atribui significados pessoais aos traços realizados, enriquecendo a produção.',
+        ],
+        'Fase das Figuras Isoladas – O desenho apresenta elementos identificáveis como casa, árvore ou pessoas, mas sem relação entre eles. Os objetos estão soltos no espaço da folha.': [
+            'A criança encontra-se na Fase das Figuras Isoladas, desenhando elementos identificáveis como casa, árvore ou pessoas, mas sem relação entre eles.',
+            'Os desenhos apresentam objetos soltos no espaço da folha, sem organização espacial definida.',
+            'Demonstra habilidade para representar figuras reconhecíveis, ainda que isoladas.',
+            'A produção gráfica evidencia elementos separados, típicos da Fase das Figuras Isoladas.',
+            'A criança explora diferentes formas e objetos em seus desenhos, sem conexão entre eles.',
+            'Os desenhos mostram elementos distintos, como pessoas, casas ou árvores, distribuídos aleatoriamente.',
+            'A Fase das Figuras Isoladas é marcada pela representação de objetos sem relação espacial.',
+            'Demonstra interesse em desenhar diferentes elementos, mesmo que não componham uma cena.',
+            'A criança utiliza o espaço da folha para distribuir figuras de forma independente.',
+            'A produção gráfica é rica em elementos, mas ainda sem narrativa visual.',
+        ],
+        'Fase da Cena Simples – Os elementos do desenho começam a se relacionar entre si: a figura humana ao lado da casa, o chão, o céu. Ainda são formas simples, mas já há organização espacial.': [
+            'A criança encontra-se na Fase da Cena Simples, organizando elementos do desenho em relação uns aos outros.',
+            'Os desenhos apresentam figuras humanas ao lado de casas, chão e céu, demonstrando organização espacial.',
+            'Demonstra evolução ao compor cenas simples com diferentes elementos interagindo.',
+            'A produção gráfica evidencia a busca por relacionar objetos no espaço da folha.',
+            'A criança utiliza formas simples para criar cenas com início de narrativa visual.',
+            'Os desenhos mostram elementos conectados, como pessoas próximas de casas ou árvores.',
+            'A Fase da Cena Simples é marcada pela organização e relação entre os objetos desenhados.',
+            'Demonstra criatividade ao compor cenas com múltiplos elementos.',
+            'A criança explora a disposição dos objetos para criar sentido em seus desenhos.',
+            'A produção gráfica revela o início da compreensão de espaço e narrativa.',
+        ],
+        'Fase da Cena Completa – O desenho forma uma narrativa visual, com vários elementos interagindo. Aparecem detalhes como roupas, expressões, e cenas como festa ou brincadeira.': [
+            'A criança encontra-se na Fase da Cena Completa, criando desenhos que formam uma narrativa visual com vários elementos interagindo.',
+            'Os desenhos apresentam detalhes como roupas, expressões e cenas de festa ou brincadeira.',
+            'Demonstra habilidade para compor cenas complexas, com múltiplos objetos e personagens.',
+            'A produção gráfica evidencia riqueza de detalhes e interação entre os elementos.',
+            'A criança utiliza o espaço da folha para criar histórias visuais completas.',
+            'A Fase da Cena Completa é marcada pela organização, detalhes e narrativa nos desenhos.',
+            'Demonstra criatividade ao representar situações do cotidiano em suas produções.',
+            'Os desenhos mostram personagens interagindo em diferentes contextos.',
+            'A criança explora diferentes temas e cenários em suas cenas completas.',
+            'A produção gráfica revela maturidade na representação de histórias visuais.',
+        ],
+    },
+    8: {
+        'Escreve seu nome com o auxílio da ficha de nome.': [
+            'A criança escreve seu nome com o auxílio da ficha de nome, demonstrando interesse e empenho no processo de alfabetização.',
+            'Com o apoio visual da ficha, consegue identificar e reproduzir as letras do próprio nome.',
+            'Demonstra atenção ao utilizar a ficha de nome como referência durante as atividades.',
+            'A escrita do nome ocorre com suporte, evidenciando o início da autonomia na alfabetização.',
+            'Mostra-se motivada ao reconhecer as letras do próprio nome com auxílio.',
+            'O uso da ficha de nome favorece a memorização e o reconhecimento das letras.',
+            'A criança utiliza a ficha como estratégia para aprimorar a escrita do nome.',
+            'Demonstra progresso ao escrever o nome, mesmo que ainda dependa do apoio visual.',
+            'A escrita com auxílio indica que está em processo de consolidação dessa habilidade.',
+            'O acompanhamento com a ficha de nome contribui para o desenvolvimento da escrita autônoma.',
+        ],
+        'Está consolidando a escrita do nome com o auxílio da ficha.': [
+            'A criança está consolidando a escrita do nome com o auxílio da ficha, demonstrando avanços significativos.',
+            'Utiliza a ficha de nome como apoio, mas já apresenta maior segurança na escrita.',
+            'Demonstra autonomia crescente ao escrever o nome, recorrendo menos ao apoio visual.',
+            'A consolidação da escrita do nome é perceptível nas atividades diárias.',
+            'Mostra-se confiante ao identificar e reproduzir as letras do próprio nome.',
+            'A criança apresenta evolução no reconhecimento e escrita do nome com suporte.',
+            'O uso da ficha de nome é cada vez menos necessário, indicando progresso.',
+            'Demonstra satisfação ao perceber os avanços na escrita do nome.',
+            'A consolidação dessa habilidade contribui para o desenvolvimento da alfabetização.',
+            'A criança está quase independente na escrita do nome, utilizando a ficha apenas como conferência.',
+        ],
+        'Escreve o nome de modo independente.': [
+            'A criança escreve o nome de modo independente, demonstrando domínio das letras e autonomia na alfabetização.',
+            'Realiza a escrita do próprio nome sem necessidade de apoio visual.',
+            'Demonstra segurança e confiança ao escrever o nome em diferentes contextos.',
+            'A escrita independente do nome evidencia maturidade no processo de alfabetização.',
+            'Mostra-se orgulhosa ao escrever o nome sozinha, sem recorrer à ficha.',
+            'A criança reconhece e reproduz as letras do nome com facilidade e precisão.',
+            'A autonomia na escrita do nome é um marco importante no desenvolvimento escolar.',
+            'Demonstra habilidade ao escrever o nome em atividades diversas.',
+            'A escrita independente do nome contribui para o avanço em outras áreas da alfabetização.',
+            'A criança utiliza a escrita do nome como referência para novas aprendizagens.',
+        ],
+    },
+    18: {
+        'Sim, participa da organização de forma espontânea.': [
+            'A criança participa da organização dos brinquedos de forma espontânea após as brincadeiras.',
+            'Demonstra responsabilidade e colaboração ao ajudar a guardar os brinquedos.',
+            'Mostra-se disposta a contribuir para a organização do ambiente escolar.',
+            'A participação espontânea na organização favorece o desenvolvimento da autonomia.',
+            'Demonstra iniciativa ao recolher e guardar os brinquedos sem necessidade de lembretes.',
+            'O envolvimento na organização dos brinquedos é realizado com alegria e disposição.',
+            'A criança incentiva os colegas a participarem da organização após as brincadeiras.',
+            'A colaboração na organização contribui para o clima harmonioso na turma.',
+            'Participa das atividades de organização com entusiasmo e respeito.',
+            'O comportamento colaborativo é um destaque nas rotinas da criança.',
+        ],
+        'Precisa ser incentivada para ajudar.': [
+            'A criança precisa ser incentivada para ajudar na organização dos brinquedos após as brincadeiras.',
+            'Demonstra alguma resistência inicial, mas colabora quando estimulada.',
+            'Participa da organização com apoio do professor e dos colegas.',
+            'O incentivo é importante para garantir o envolvimento nas atividades de organização.',
+            'A criança alterna entre momentos de colaboração e resistência durante a organização.',
+            'Demonstra compreensão da importância da organização, mesmo que precise de lembretes.',
+            'O uso de estratégias lúdicas contribui para aumentar o interesse pela organização.',
+            'A participação é positiva, mas requer acompanhamento para maior autonomia.',
+            'A criança está em processo de desenvolvimento da responsabilidade nas rotinas escolares.',
+            'O incentivo recebido favorece avanços na participação ao longo do tempo.',
+        ],
+        'Resiste a guardar e pode apresentar choro ou reclamações.': [
+            'A criança resiste a guardar os brinquedos após as brincadeiras, podendo apresentar choro ou reclamações.',
+            'Demonstra dificuldade em aceitar a rotina de organização, necessitando de acompanhamento próximo.',
+            'A participação na organização é limitada pela resistência em guardar os brinquedos.',
+            'O acompanhamento do professor é fundamental para estimular o envolvimento nas atividades de organização.',
+            'A criança pode expressar insatisfação ou desconforto durante a organização dos brinquedos.',
+            'Ainda não demonstra interesse em participar da organização, mesmo com incentivo.',
+            'A resistência pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas atividades de organização.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas rotinas de organização.',
+            'A resistência frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
+        'Não participa da organização.': [
+            'A criança não participa da organização dos brinquedos após as brincadeiras.',
+            'Demonstra pouca disposição para envolver-se nas atividades de organização.',
+            'Apresenta recusa frequente em participar da organização dos brinquedos.',
+            'A participação nas atividades de organização é limitada, sendo necessário acompanhamento e acolhimento.',
+            'A criança pode se sentir insegura ou desconfortável durante a rotina de organização.',
+            'Ainda não demonstra interesse em participar da organização, mesmo com incentivo.',
+            'A recusa em participar pode estar relacionada a fatores emocionais ou de adaptação.',
+            'O acompanhamento próximo é fundamental para estimular a participação nas atividades de organização.',
+            'A criança necessita de tempo e acolhimento para se sentir à vontade nas rotinas de organização.',
+            'A recusa frequente indica a importância de estratégias individualizadas para inclusão.',
+        ],
     },
 }
