@@ -6,7 +6,8 @@ import zlib
 from pathlib import Path
 from tkinter import messagebox, scrolledtext, ttk
 
-from reports import POSSIBLE_ANSWERS, QUESTIONS, REPORT_PARAGRAPHS
+from reports import QUESTIONS, REPORT_PARAGRAPHS
+from possible_answers import POSSIBLE_ANSWERS
 
 
 class QuestionarioGUI:
