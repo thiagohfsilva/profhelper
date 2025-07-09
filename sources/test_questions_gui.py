@@ -1,14 +1,14 @@
-
-import pytest
-from unittest.mock import patch
 import tkinter as tk
 import zlib
 from pathlib import Path
+from unittest.mock import patch
 
-from reports import QUESTIONS, POSSIBLE_ANSWERS, REPORT_PARAGRAPHS
+import pytest
 from questions import QuestionarioGUI
+from reports import POSSIBLE_ANSWERS, QUESTIONS, REPORT_PARAGRAPHS
 
-@pytest.fixture(scope="module")
+
+@pytest.fixture(scope='module')
 def tk_root():
     root = tk.Tk()
     root.withdraw()
@@ -20,40 +20,58 @@ def tk_root():
 def gui(tk_root):
     return QuestionarioGUI(tk_root, QUESTIONS, POSSIBLE_ANSWERS)
 
+
 def test_identificar_resposta_por_codigo_valid(gui):
     code = '0' * len(QUESTIONS)
-    respostas = gui.identificar_resposta_por_codigo(QUESTIONS, POSSIBLE_ANSWERS, code)
+    respostas = gui.identificar_resposta_por_codigo(
+        QUESTIONS, POSSIBLE_ANSWERS, code
+    )
     assert len(respostas) == len(QUESTIONS)
     for idx, pergunta in QUESTIONS.items():
-        assert respostas[pergunta] == POSSIBLE_ANSWERS.get(idx, ['Sem resposta'])[0]
+        assert (
+            respostas[pergunta]
+            == POSSIBLE_ANSWERS.get(idx, ['Sem resposta'])[0]
+        )
+
 
 def test_identificar_resposta_por_codigo_invalid_length(gui):
     code = '0' * (len(QUESTIONS) - 1)
     with pytest.raises(ValueError):
         gui.identificar_resposta_por_codigo(QUESTIONS, POSSIBLE_ANSWERS, code)
 
+
 def test_identificar_resposta_por_codigo_invalid_index(gui):
     code = 'F' + '0' * (len(QUESTIONS) - 1)
     with pytest.raises(ValueError):
         gui.identificar_resposta_por_codigo(QUESTIONS, POSSIBLE_ANSWERS, code)
 
+
 def test_gerar_relatorio_paragrafos(gui):
-    respostas = {QUESTIONS[idx]: POSSIBLE_ANSWERS.get(idx, ['Sem resposta'])[0] for idx in QUESTIONS}
-    relatorio = gui.gerar_relatorio_paragrafos(QUESTIONS, POSSIBLE_ANSWERS, respostas)
+    respostas = {
+        QUESTIONS[idx]: POSSIBLE_ANSWERS.get(idx, ['Sem resposta'])[0]
+        for idx in QUESTIONS
+    }
+    relatorio = gui.gerar_relatorio_paragrafos(
+        QUESTIONS, POSSIBLE_ANSWERS, respostas
+    )
     assert 'Relatório Pedagógico' in relatorio
     assert 'Nome da criança' in relatorio
-    assert any(topico.strip() in relatorio for topico in [
-        'Sobre à adaptação e rotina escolar,',
-        'Ao observar aspectos emocionais e comportamentais,',
-        'Nas atividades diárias,',
-        'A respeito do desenvolvimento motor e social,',
-        'Sobre o desenvolvimento cognitivo e acadêmico,'
-    ])
+    assert any(
+        topico.strip() in relatorio
+        for topico in [
+            'Sobre à adaptação e rotina escolar,',
+            'Ao observar aspectos emocionais e comportamentais,',
+            'Nas atividades diárias,',
+            'A respeito do desenvolvimento motor e social,',
+            'Sobre o desenvolvimento cognitivo e acadêmico,',
+        ]
+    )
+
 
 def test_gerar_todas_combinacoes_creates_files(tk_root):
-    with patch('sys.stdin.read', return_value='Texto exemplo.'), \
-         patch('builtins.input', return_value=''), \
-         patch('zlib.compress', side_effect=zlib.compress):
+    with patch('sys.stdin.read', return_value='Texto exemplo.'), patch(
+        'builtins.input', return_value=''
+    ), patch('zlib.compress', side_effect=zlib.compress):
         questions = {0: 'Nome:', 1: 'Pergunta 1'}
         possible_answers = {0: ['Nome Teste'], 1: ['A', 'B']}
         gui = QuestionarioGUI(tk_root, questions, possible_answers)
@@ -66,10 +84,12 @@ def test_gerar_todas_combinacoes_creates_files(tk_root):
         for f in arquivos:
             f.unlink()
 
+
 def test_mostrar_formulario_compactado_file_not_found(gui):
     with patch('builtins.print') as mock_print:
         gui.mostrar_formulario_compactado('ZZZZ')
         mock_print.assert_called_with('Arquivo não encontrado.')
+
 
 def test_mostrar_formulario_compactado_success(gui):
     pasta_saida = Path('formularios_compactados')

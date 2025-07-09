@@ -6,8 +6,8 @@ import zlib
 from pathlib import Path
 from tkinter import messagebox, scrolledtext, ttk
 
-from reports import QUESTIONS, REPORT_PARAGRAPHS
 from possible_answers import POSSIBLE_ANSWERS
+from reports import QUESTIONS, REPORT_PARAGRAPHS
 
 
 class QuestionarioGUI:
@@ -104,7 +104,7 @@ class QuestionarioGUI:
         btn = ttk.Button(self.frame, text='Fechar', command=self.root.destroy)
         btn.pack(pady=10)
 
-    def preencher_e_gerar_relatorio(self,questions, possible_answers):
+    def preencher_e_gerar_relatorio(self, questions, possible_answers):
         """
         Realiza as perguntas ao usuário, mostra as opções de resposta e, ao final, gera o relatório pedagógico.
         """
@@ -136,10 +136,12 @@ class QuestionarioGUI:
                     print('Entrada inválida. Tente novamente.')
         print('\n--- RELATÓRIO GERADO ---\n')
         print(
-            self.gerar_relatorio_paragrafos(questions, possible_answers, respostas)
+            self.gerar_relatorio_paragrafos(
+                questions, possible_answers, respostas
+            )
         )
 
-    def gerar_todas_combinacoes(self,questions, possible_answers):
+    def gerar_todas_combinacoes(self, questions, possible_answers):
         """
         Gera todas as combinações possíveis de respostas para o questionário de forma ordenada.
         Após cada formulário, aguarda o pressionamento da tecla Enter para continuar.
@@ -201,8 +203,8 @@ class QuestionarioGUI:
                 'Pressione Enter para continuar para o próximo formulário...'
             )
 
-    def identificar_resposta_por_codigo(self,
-        questions, possible_answers, codigo_hex
+    def identificar_resposta_por_codigo(
+        self, questions, possible_answers, codigo_hex
     ):
         """
         Dado um código hexadecimal, identifica como o questionário foi respondido.
@@ -234,7 +236,7 @@ class QuestionarioGUI:
 
         return respostas
 
-    def mostrar_formulario_compactado(self,codigo_hex):
+    def mostrar_formulario_compactado(self, codigo_hex):
         """
         Lê o arquivo compactado correspondente ao código hexadecimal e exibe o conteúdo descompactado.
 
@@ -250,7 +252,9 @@ class QuestionarioGUI:
             texto = zlib.decompress(dados).decode('utf-8')
             print(texto)
 
-    def gerar_relatorio_paragrafos(self,questions, possible_answers, respostas):
+    def gerar_relatorio_paragrafos(
+        self, questions, possible_answers, respostas
+    ):
         """
         Gera um relatório concatenando parágrafos conforme as respostas do questionário.
         :param questions: Dicionário de perguntas
@@ -263,10 +267,29 @@ class QuestionarioGUI:
         # Estrutura de tópicos atualizada conforme as perguntas do formulário
         TOPICOS = {
             '\nSobre à adaptação e rotina escolar,': [1, 4],
-            '\nAo observar aspectos emocionais e comportamentais,': [2, 17, 18, 19, 22],
+            '\nAo observar aspectos emocionais e comportamentais,': [
+                2,
+                17,
+                18,
+                19,
+                22,
+            ],
             '\nNas atividades diárias,': [3, 6, 14, 15, 16],
-            '\nA respeito do desenvolvimento motor e social,': [5, 12, 13, 20, 21],
-            '\nSobre o desenvolvimento cognitivo e acadêmico,': [7, 8, 9, 10, 11, 23],
+            '\nA respeito do desenvolvimento motor e social,': [
+                5,
+                12,
+                13,
+                20,
+                21,
+            ],
+            '\nSobre o desenvolvimento cognitivo e acadêmico,': [
+                7,
+                8,
+                9,
+                10,
+                11,
+                23,
+            ],
         }
 
         paragrafos = []
