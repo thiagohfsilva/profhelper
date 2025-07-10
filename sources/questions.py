@@ -16,7 +16,9 @@ class QuestionarioGUI:
         self.questions = questions
         self.possible_answers = possible_answers
         self.respostas_vars = {}
+        self.respostas_livres = []  # Lista para armazenar respostas livres
         self.root.title('Questionário Pedagógico')
+        self.root.state('zoomed')
         self.frame = ttk.Frame(root, padding=20)
         self.frame.pack(fill='both', expand=True)
         canvas = tk.Canvas(self.frame)
@@ -32,6 +34,14 @@ class QuestionarioGUI:
         canvas.configure(yscrollcommand=scrollbar.set, height=600)
         canvas.pack(side='left', fill='both', expand=True)
         scrollbar.pack(side='right', fill='y')
+
+        # Evento de scroll para toda a janela
+        self.root.bind_all(
+            '<MouseWheel>',
+            lambda event: canvas.yview_scroll(
+                int(-1 * (event.delta / 120)), 'units'
+            ),
+        )
 
         # Adiciona todas as perguntas e campos/opções
         for idx in sorted(self.questions.keys()):
@@ -62,6 +72,22 @@ class QuestionarioGUI:
                     )
                     rb.pack(anchor='w')
                 self.respostas_vars[pergunta] = var
+
+            # Campo de escrita livre para cada pergunta
+            livre_label = ttk.Label(
+                self.scrollable_frame,
+                text='Complemento da resposta:',
+                font=('Arial', 10),
+            )
+            livre_label.pack(anchor='w', pady=(10, 0))  # Adiciona o label
+            livre_var = tk.StringVar()
+            livre_entry = ttk.Entry(
+                self.scrollable_frame, textvariable=livre_var, width=80
+            )
+            livre_entry.pack(anchor='w', pady=(0, 5))
+            self.respostas_livres.append(
+                livre_var
+            )  # Armazena a variável de resposta livre
 
         self.botao_gerar = ttk.Button(
             self.scrollable_frame,
@@ -264,55 +290,28 @@ class QuestionarioGUI:
         """
         import random
 
-        # Estrutura de tópicos atualizada conforme as perguntas do formulário
-        TOPICOS = {
-            '\nSobre à adaptação e rotina escolar,': [1, 4],
-            '\nAo observar aspectos emocionais e comportamentais,': [
-                2,
-                17,
-                18,
-                19,
-                22,
-            ],
-            '\nNas atividades diárias,': [3, 6, 14, 15, 16],
-            '\nA respeito do desenvolvimento motor e social,': [
-                5,
-                12,
-                13,
-                20,
-                21,
-            ],
-            '\nSobre o desenvolvimento cognitivo e acadêmico,': [
-                7,
-                8,
-                9,
-                10,
-                11,
-                23,
-            ],
-        }
-
         paragrafos = []
         nome = respostas.get('Nome:', '[Nome da criança]')
-        paragrafos.append(f'Relatório Pedagógico\nNome da criança: {nome}\n')
+        paragrafos.append(f'Relatório Pedagógico\nNome da criança: {nome}\n\n')
 
-        for topico, ids in TOPICOS.items():
-            paragrafos.append(f'\t{topico}')
-            flag = True
-            for idx in ids:
-                if idx in REPORT_PARAGRAPHS:
-                    resposta = respostas.get(questions[idx])
-                    paragrafo = REPORT_PARAGRAPHS[idx].get(resposta)
-                    if isinstance(paragrafo, list):
-                        rand = random.choice(paragrafo)
-                        if flag:
-                            paragrafos.append(rand[0].lower() + rand[1:])
-                            flag = False
-                        else:
-                            paragrafos.append(rand)
-                    elif paragrafo:
-                        paragrafos.append(paragrafo)
-            paragrafos.append('\n')  # Separador entre tópicos
+        ids = questions.keys()
+        # paragrafos.append(f'\t{topico}')
+        flag = False
+        for idx in ids:
+            if idx in REPORT_PARAGRAPHS:
+                resposta = respostas.get(questions[idx])
+                resposta_livre = self.respostas_livres[idx - 1].get().strip()
+                paragrafo = REPORT_PARAGRAPHS[idx].get(resposta)
+                if isinstance(paragrafo, list):
+                    rand = random.choice(paragrafo)
+                    if flag:
+                        paragrafos.append(rand[0].lower() + rand[1:] + ' ')
+                        flag = False
+                    else:
+                        paragrafos.append(rand + resposta_livre + '\n')
+                elif paragrafo:
+                    paragrafos.append(paragrafo + resposta_livre + '\n')
+        paragrafos.append('\n')  # Separador entre tópicos
 
         return ''.join(paragrafos)
 
