@@ -93,8 +93,13 @@ class QuestionarioGUI:
             self.scrollable_frame,
             text='Gerar Relatório',
             command=self.mostrar_relatorio,
+            style='TButton'
         )
         self.botao_gerar.pack(pady=20)
+
+        # Configura o estilo do botão para aumentar o tamanho da fonte
+        style = ttk.Style()
+        style.configure('TButton', font=('Arial', 20))
 
     def mostrar_relatorio(self):
         respostas = {}
